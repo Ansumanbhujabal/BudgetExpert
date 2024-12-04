@@ -1,0 +1,29 @@
+2024-11-26 17:32:13.609 [info] 
+
+
+
+
+2024-11-26 17:32:13.618 [info] Extension host agent started.
+2024-11-26 17:32:14.521 [info] [<unknown>][3b1087e7][ExtensionHostConnection] New connection established.
+2024-11-26 17:32:14.565 [info] [<unknown>][fdaed021][ManagementConnection] New connection established.
+2024-11-26 17:32:14.616 [info] [<unknown>][3b1087e7][ExtensionHostConnection] <2662> Launched Extension Host Process.
+2024-11-26 17:37:13.619 [info] New EH opened, aborting shutdown
+2024-11-26 17:52:17.512 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-26 17:52:17.655 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-26 17:52:33.485 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-26 17:52:33.525 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-26 17:53:52.346 [info] [<unknown>][fdaed021][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-26 17:53:52.372 [info] [<unknown>][3b1087e7][ExtensionHostConnection] <2662> Extension Host Process exited with code: 0, signal: null.
+2024-11-26 17:53:52.372 [info] Last EH closed, waiting before shutting down
+2024-11-26 17:54:12.429 [info] [<unknown>][69ff7f55][ManagementConnection] New connection established.
+2024-11-26 17:54:12.430 [info] [<unknown>][19807414][ExtensionHostConnection] New connection established.
+2024-11-26 17:54:12.433 [info] [<unknown>][19807414][ExtensionHostConnection] <12349> Launched Extension Host Process.
+2024-11-26 17:54:13.490 [info] [<unknown>][69ff7f55][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-26 17:58:52.373 [info] New EH opened, aborting shutdown
+2024-11-26 17:58:52.375 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/server-main.js:183:1060)
+    at process.emit (node:events:531:35)

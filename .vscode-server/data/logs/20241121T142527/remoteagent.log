@@ -1,0 +1,42 @@
+2024-11-21 14:25:27.358 [info] 
+
+
+
+
+2024-11-21 14:25:27.368 [info] Extension host agent started.
+2024-11-21 14:25:28.248 [info] [<unknown>][4ff3617c][ManagementConnection] New connection established.
+2024-11-21 14:25:28.292 [info] [<unknown>][c50e3198][ExtensionHostConnection] New connection established.
+2024-11-21 14:25:28.385 [info] [<unknown>][c50e3198][ExtensionHostConnection] <13631> Launched Extension Host Process.
+2024-11-21 14:30:27.369 [info] New EH opened, aborting shutdown
+2024-11-21 14:41:26.953 [error] Error: connect ECONNREFUSED 127.0.0.1:8502
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 14:41:27.127 [error] Error: connect ECONNREFUSED 127.0.0.1:8502
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 14:51:35.823 [error] Error: connect ECONNREFUSED 127.0.0.1:8502
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 14:51:35.855 [error] Error: connect ECONNREFUSED 127.0.0.1:8502
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 14:51:50.995 [error] Error: connect ECONNREFUSED 127.0.0.1:8502
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 14:51:50.996 [error] Error: connect ECONNREFUSED 127.0.0.1:8502
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 14:52:07.082 [error] Error: connect ECONNREFUSED 127.0.0.1:8502
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 14:52:07.083 [error] Error: connect ECONNREFUSED 127.0.0.1:8502
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 14:52:24.092 [error] Error: connect ECONNREFUSED 127.0.0.1:8502
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 14:52:24.093 [error] Error: connect ECONNREFUSED 127.0.0.1:8502
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 14:52:43.236 [error] Error: connect ECONNREFUSED 127.0.0.1:8502
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 14:52:43.238 [error] Error: connect ECONNREFUSED 127.0.0.1:8502
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 14:53:06.336 [error] Error: connect ECONNREFUSED 127.0.0.1:8502
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 14:53:06.337 [error] Error: connect ECONNREFUSED 127.0.0.1:8502
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 14:53:34.458 [error] Error: connect ECONNREFUSED 127.0.0.1:8502
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 14:53:34.499 [error] Error: connect ECONNREFUSED 127.0.0.1:8502
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)

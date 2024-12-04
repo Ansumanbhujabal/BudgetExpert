@@ -1,0 +1,88 @@
+2024-11-21 10:02:05.815 [info] 
+
+
+
+
+2024-11-21 10:02:05.815 [info] Extension host agent started.
+2024-11-21 10:02:06.436 [info] [<unknown>][3ac7bac9][ExtensionHostConnection] New connection established.
+2024-11-21 10:02:06.475 [info] [<unknown>][f607c587][ManagementConnection] New connection established.
+2024-11-21 10:02:06.530 [info] [<unknown>][3ac7bac9][ExtensionHostConnection] <1496> Launched Extension Host Process.
+2024-11-21 10:06:55.504 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 10:06:55.507 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 10:07:05.770 [info] New EH opened, aborting shutdown
+2024-11-21 10:08:30.118 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 10:08:30.157 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 10:08:45.404 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 10:08:45.406 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 10:09:44.206 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 10:09:44.237 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 10:09:59.588 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 10:09:59.590 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 10:10:20.075 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 10:10:20.116 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 10:10:35.453 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 10:10:35.455 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 10:10:51.673 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 10:10:51.705 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 10:11:08.862 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 10:11:08.905 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 10:13:28.941 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 10:13:29.023 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 10:13:44.172 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 10:13:44.207 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 10:17:54.969 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 10:17:55.002 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 10:21:35.829 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 10:21:35.831 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 10:21:51.024 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 10:21:51.030 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 10:23:39.627 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 10:23:39.667 [error] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1607:16)
+2024-11-21 12:47:56.257 [info] [<unknown>][f607c587][ManagementConnection] The client has reconnected.
+2024-11-21 12:48:22.647 [info] [<unknown>][3ac7bac9][ExtensionHostConnection] The client has reconnected.
+2024-11-21 14:06:42.538 [info] [<unknown>][f607c587][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-21 14:06:42.542 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/server/out/server-main.js:183:1060)
+    at process.emit (node:events:531:35)
+2024-11-21 14:06:42.601 [info] [<unknown>][3ac7bac9][ExtensionHostConnection] <1496> Extension Host Process exited with code: 0, signal: null.
+2024-11-21 14:06:42.601 [info] Last EH closed, waiting before shutting down
+2024-11-21 14:06:58.445 [info] [<unknown>][e7ee1b24][ManagementConnection] New connection established.
+2024-11-21 14:06:58.447 [info] [<unknown>][674b3573][ExtensionHostConnection] New connection established.
+2024-11-21 14:06:58.451 [info] [<unknown>][674b3573][ExtensionHostConnection] <5817> Launched Extension Host Process.
+2024-11-21 14:09:20.828 [info] [<unknown>][674b3573][ExtensionHostConnection] The client has reconnected.
+2024-11-21 14:09:20.830 [info] [<unknown>][e7ee1b24][ManagementConnection] The client has reconnected.
+2024-11-21 14:11:42.602 [info] New EH opened, aborting shutdown
+2024-11-21 14:14:34.139 [info] [<unknown>][e7ee1b24][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-21 14:14:34.165 [info] [<unknown>][674b3573][ExtensionHostConnection] <5817> Extension Host Process exited with code: 0, signal: null.
+2024-11-21 14:14:34.166 [info] Last EH closed, waiting before shutting down
+2024-11-21 14:19:34.168 [info] Last EH closed, shutting down
