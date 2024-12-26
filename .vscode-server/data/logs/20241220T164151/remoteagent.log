@@ -1,0 +1,44 @@
+2024-12-20 16:41:55.331 [info] 
+
+
+
+
+2024-12-20 16:41:55.332 [info] Extension host agent started.
+2024-12-20 16:41:56.568 [info] [<unknown>][853ff8ab][ExtensionHostConnection] New connection established.
+2024-12-20 16:41:56.569 [info] [<unknown>][1d4d55fb][ManagementConnection] New connection established.
+2024-12-20 16:41:56.664 [info] [<unknown>][853ff8ab][ExtensionHostConnection] <1545> Launched Extension Host Process.
+2024-12-20 16:42:04.026 [error] [File Watcher] Unexpected error: inotify_add_watch on '/teamspace/studios/this_studio/.vscode-server/data/logs/20241205T043701/exthost1/vscode.git' failed: No such file or directory (EUNKNOWN) (path: /teamspace/studios/this_studio)
+2024-12-20 16:42:04.027 [error] [File Watcher (universal)] inotify_add_watch on '/teamspace/studios/this_studio/.vscode-server/data/logs/20241205T043701/exthost1/vscode.git' failed: No such file or directory
+2024-12-20 16:42:13.795 [error] CodeExpectedError: Could not find pty 4 on pty host
+    at I.W (file:///teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:48:12233)
+    at I.updateTitle (file:///teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:48:7722)
+    at N.s.<computed> (file:///teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:48:2962)
+    at Object.call (file:///teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:31:4203)
+    at Jc.s (file:///teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78968)
+    at Jc.q (file:///teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78491)
+    at us.value (file:///teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:29:77893)
+    at C.B (file:///teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:29:746)
+    at C.fire (file:///teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:29:964)
+    at process.w (file:///teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29142)
+    at process.emit (node:events:518:28)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-12-20 16:42:13.797 [error] CodeExpectedError: Could not find pty 4 on pty host
+    at I.W (file:///teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:48:12233)
+    at I.updateIcon (file:///teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:48:7772)
+    at N.s.<computed> (file:///teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:48:2962)
+    at Object.call (file:///teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:31:4203)
+    at Jc.s (file:///teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78968)
+    at Jc.q (file:///teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78491)
+    at us.value (file:///teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:29:77893)
+    at C.B (file:///teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:29:746)
+    at C.fire (file:///teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:29:964)
+    at process.w (file:///teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29142)
+    at process.emit (node:events:518:28)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-12-20 16:46:55.229 [info] New EH opened, aborting shutdown
+2024-12-20 18:41:19.867 [info] [<unknown>][1d4d55fb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-20 18:41:19.964 [info] [<unknown>][853ff8ab][ExtensionHostConnection] <1545> Extension Host Process exited with code: 0, signal: null.
+2024-12-20 18:41:19.964 [info] Last EH closed, waiting before shutting down
+2024-12-20 18:46:19.965 [info] Last EH closed, shutting down

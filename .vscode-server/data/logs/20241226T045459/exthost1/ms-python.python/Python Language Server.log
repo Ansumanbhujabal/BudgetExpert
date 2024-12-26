@@ -1,0 +1,22 @@
+2024-12-26 04:55:14.791 [info] [Info  - 4:55:14 AM] (2495) Server root directory: file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2024-12-26 04:55:14.791 [info] [Info  - 4:55:14 AM] (2495) Pylance language server 2024.12.1 (pyright version 1.1.389, commit ce1325fc) starting
+2024-12-26 04:55:14.791 [info] [Info  - 4:55:14 AM] (2495) Starting service instance "this_studio"
+2024-12-26 04:55:14.826 [info] [Info  - 4:55:14 AM] (2495) Setting environmentName for service "this_studio": "3.10.10 (cloudspace conda)"
+2024-12-26 04:55:14.827 [info] [Info  - 4:55:14 AM] (2495) Setting pythonPath for service "this_studio": "/home/zeus/miniconda3/envs/cloudspace/bin/python"
+2024-12-26 04:55:14.827 [info] [Info  - 4:55:14 AM] (2495) No include entries specified; assuming /teamspace/studios/this_studio
+2024-12-26 04:55:14.828 [info] [Info  - 4:55:14 AM] (2495) Auto-excluding **/node_modules
+2024-12-26 04:55:14.828 [info] [Info  - 4:55:14 AM] (2495) Auto-excluding **/__pycache__
+2024-12-26 04:55:14.829 [info] [Info  - 4:55:14 AM] (2495) Auto-excluding **/.*
+2024-12-26 04:55:14.847 [info] [Info  - 4:55:14 AM] (2495) Assuming Python version 3.10.10.final.0
+2024-12-26 04:55:15.156 [info] [Info  - 4:55:15 AM] (2495) Found 8 source files
+2024-12-26 04:55:15.679 [info] [Info  - 4:55:15 AM] (2495) Background analysis(1) root directory: file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2024-12-26 04:55:15.679 [info] [Info  - 4:55:15 AM] (2495) Background analysis(1) started
+2024-12-26 04:55:15.752 [info] [Info  - 4:55:15 AM] (2495) Indexer background runner(2) root directory: file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2024-12-26 04:55:15.754 [info] [Info  - 4:55:15 AM] (2495) Indexing(2) started
+2024-12-26 04:55:18.018 [info] [Info  - 4:55:18 AM] (2495) scanned(2) 566 files over 1 exec env
+2024-12-26 04:55:18.601 [info] [Info  - 4:55:18 AM] (2495) indexed(2) 566 files over 1 exec env
+2024-12-26 04:55:18.883 [info] [Info  - 4:55:18 AM] (2495) Indexing finished(2).
+2024-12-26 04:55:19.986 [info] [Info  - 4:55:19 AM] (2495) [BG(1)] Long operation: checking: file:///teamspace/studios/this_studio/app.py (3773ms)
+2024-12-26 04:55:19.986 [info] [Info  - 4:55:19 AM] (2495) [BG(1)] Long operation: analyzing: file:///teamspace/studios/this_studio/app.py (3783ms)
+2024-12-26 04:55:25.810 [info] (Client) The existing extension didn't exit within 10 seconds. New instance will start, but you might encounter issues.
+2024-12-26 04:55:25.810 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.22.1)

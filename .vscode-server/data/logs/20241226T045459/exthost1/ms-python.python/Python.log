@@ -1,0 +1,13 @@
+2024-12-26 04:55:12.730 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-12-26 04:55:12.730 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-12-26 04:55:12.730 [info] Experiment 'pythonTestAdapter' is active
+2024-12-26 04:55:12.730 [info] Native locator: Refresh started
+2024-12-26 04:55:12.730 [info] Poetry environment manager found at: /commands/poetry
+2024-12-26 04:55:12.730 [info] Conda environment manager found at: /home/zeus/miniconda3/bin/conda
+2024-12-26 04:55:12.730 [info] Native locator: Refresh finished in 439 ms
+2024-12-26 04:55:13.125 [info] Python interpreter path: /home/zeus/miniconda3/envs/cloudspace/bin/python
+2024-12-26 04:55:13.862 [info] > pyenv which python
+2024-12-26 04:55:13.863 [info] cwd: .
+2024-12-26 04:55:14.138 [info] > /home/zeus/miniconda3/bin/conda info --json
+2024-12-26 04:55:15.251 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2024-12-26 04:55:25.811 [info] Starting Pylance language server.

@@ -1,0 +1,49 @@
+2024-12-20 16:42:15.153 [info] [main] Log level: Info
+2024-12-20 16:42:15.153 [info] [main] Validating found git in: "git"
+2024-12-20 16:42:15.153 [info] [main] Using git "2.42.0" from "git"
+2024-12-20 16:42:15.153 [info] [Model][doInitialScan] Initial repository scan started
+2024-12-20 16:42:15.153 [info] > git rev-parse --show-toplevel [8ms]
+2024-12-20 16:42:15.153 [info] > git rev-parse --git-dir --git-common-dir [10ms]
+2024-12-20 16:42:15.153 [info] [Model][openRepository] Opened repository: /teamspace/studios/this_studio
+2024-12-20 16:42:15.153 [info] > git config --get commit.template [12ms]
+2024-12-20 16:42:15.153 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [528ms]
+2024-12-20 16:42:15.153 [info] > git rev-parse --show-toplevel [537ms]
+2024-12-20 16:42:15.153 [info] > git rev-parse --show-toplevel [5ms]
+2024-12-20 16:42:15.156 [info] > git rev-parse --show-toplevel [4ms]
+2024-12-20 16:42:15.162 [info] > git rev-parse --show-toplevel [4ms]
+2024-12-20 16:42:15.172 [info] > git rev-parse --show-toplevel [8ms]
+2024-12-20 16:42:15.180 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [73ms]
+2024-12-20 16:42:15.183 [info] > git rev-parse --show-toplevel [7ms]
+2024-12-20 16:42:15.189 [info] > git rev-parse --show-toplevel [3ms]
+2024-12-20 16:42:15.199 [info] > git rev-parse --show-toplevel [7ms]
+2024-12-20 16:42:15.206 [info] > git rev-parse --show-toplevel [5ms]
+2024-12-20 16:42:15.212 [info] > git rev-parse --show-toplevel [3ms]
+2024-12-20 16:42:15.220 [info] > git rev-parse --show-toplevel [5ms]
+2024-12-20 16:42:15.225 [info] > git rev-parse --show-toplevel [3ms]
+2024-12-20 16:42:15.228 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-12-20 16:42:15.490 [info] > git show --textconv :Transformation.py [6ms]
+2024-12-20 16:42:15.490 [info] > git ls-files --stage -- /teamspace/studios/this_studio/Transformation.py [4ms]
+2024-12-20 16:42:15.628 [info] > git check-ignore -v -z --stdin [3ms]
+2024-12-20 16:42:15.988 [info] > git blame --root --incremental 2b88efe3130a40aa1abd4af03eb8e5de4b76899c -- /teamspace/studios/this_studio/Transformation.py [70ms]
+2024-12-20 16:42:15.988 [info] fatal: no such path Transformation.py in 2b88efe3130a40aa1abd4af03eb8e5de4b76899c
+2024-12-20 16:42:31.445 [info] > git status -z -uall [16341ms] (cancelled)
+2024-12-20 17:04:02.735 [info] > git check-ignore -v -z --stdin [4ms]
+2024-12-20 17:04:04.830 [info] > git ls-files --stage -- /teamspace/studios/this_studio/script.log [4ms]
+2024-12-20 17:04:04.831 [info] > git show --textconv :script.log [9ms]
+2024-12-20 17:04:18.540 [info] > git show --textconv :Transformation.py [3ms]
+2024-12-20 17:04:18.543 [info] > git ls-files --stage -- /teamspace/studios/this_studio/Transformation.py [2ms]
+2024-12-20 17:07:43.790 [info] > git show --textconv :script.log [5ms]
+2024-12-20 17:07:43.792 [info] > git ls-files --stage -- /teamspace/studios/this_studio/script.log [4ms]
+2024-12-20 17:09:19.093 [info] > git show --textconv :Transformation.py [3ms]
+2024-12-20 17:09:19.097 [info] > git ls-files --stage -- /teamspace/studios/this_studio/Transformation.py [3ms]
+2024-12-20 17:09:21.120 [info] > git show --textconv :script.log [3ms]
+2024-12-20 17:09:21.122 [info] > git ls-files --stage -- /teamspace/studios/this_studio/script.log [3ms]
+2024-12-20 17:30:13.759 [info] > git check-ignore -v -z --stdin [3ms]
+2024-12-20 17:30:21.601 [info] > git show --textconv :valid_pdfs.json [11ms]
+2024-12-20 17:30:21.603 [info] > git ls-files --stage -- /teamspace/studios/this_studio/valid_pdfs.json [8ms]
+2024-12-20 17:30:26.133 [info] > git show --textconv :invalid_pdfs.json [5ms]
+2024-12-20 17:30:26.135 [info] > git ls-files --stage -- /teamspace/studios/this_studio/invalid_pdfs.json [3ms]
+2024-12-20 17:30:44.519 [info] > git blame --root --incremental 2b88efe3130a40aa1abd4af03eb8e5de4b76899c -- /teamspace/studios/this_studio/invalid_pdfs.json [4ms]
+2024-12-20 17:30:44.519 [info] fatal: no such path invalid_pdfs.json in 2b88efe3130a40aa1abd4af03eb8e5de4b76899c
+2024-12-20 17:47:51.425 [info] > git ls-files --stage -- /teamspace/studios/this_studio/valid_pdfs.json [4ms]
+2024-12-20 17:47:51.427 [info] > git show --textconv :valid_pdfs.json [8ms]

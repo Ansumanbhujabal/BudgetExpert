@@ -1,0 +1,19 @@
+2024-12-20 12:44:46.132 [info] 
+
+
+
+
+2024-12-20 12:44:46.148 [info] Extension host agent started.
+2024-12-20 12:44:46.949 [info] [<unknown>][8d7d0300][ManagementConnection] New connection established.
+2024-12-20 12:44:46.956 [info] [<unknown>][3f5a5574][ExtensionHostConnection] New connection established.
+2024-12-20 12:44:47.053 [info] [<unknown>][3f5a5574][ExtensionHostConnection] <2729> Launched Extension Host Process.
+2024-12-20 12:49:46.148 [info] New EH opened, aborting shutdown
+2024-12-20 13:14:59.616 [info] [<unknown>][8d7d0300][ManagementConnection] The client has reconnected.
+2024-12-20 13:14:59.620 [info] [<unknown>][3f5a5574][ExtensionHostConnection] The client has reconnected.
+2024-12-20 13:35:54.335 [info] [<unknown>][8d7d0300][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-20 13:35:54.342 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/server-main.js:184:1060)
+    at process.emit (node:events:530:35)
+2024-12-20 13:35:54.467 [info] [<unknown>][3f5a5574][ExtensionHostConnection] <2729> Extension Host Process exited with code: 0, signal: null.
+2024-12-20 13:35:54.469 [info] Last EH closed, waiting before shutting down
+2024-12-20 13:40:54.471 [info] Last EH closed, shutting down

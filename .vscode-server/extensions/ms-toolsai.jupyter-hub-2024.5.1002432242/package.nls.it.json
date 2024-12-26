@@ -1,0 +1,1 @@
+{"capabilities.untrustedWorkspace.description":"L'esecuzione di celle nella finestra interattiva e nei notebook non è supportata nelle aree di lavoro non attendibili.","jupyterHub.configuration.jupyterHub.log.description":"Livello di registrazione a cui viene eseguito il log dell'estensione."}

@@ -1,0 +1,34 @@
+2024-12-25 12:29:14.446 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-12-25 12:29:14.446 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-12-25 12:29:14.446 [info] Experiment 'pythonTestAdapter' is active
+2024-12-25 12:29:14.446 [info] Native locator: Refresh started
+2024-12-25 12:29:14.446 [info] Poetry environment manager found at: /commands/poetry
+2024-12-25 12:29:14.446 [info] Conda environment manager found at: /home/zeus/miniconda3/bin/conda
+2024-12-25 12:29:14.446 [info] Native locator: Refresh finished in 668 ms
+2024-12-25 12:29:15.001 [info] Python interpreter path: /home/zeus/miniconda3/envs/cloudspace/bin/python
+2024-12-25 12:29:15.715 [info] > pyenv which python
+2024-12-25 12:29:15.716 [info] cwd: .
+2024-12-25 12:29:16.025 [info] > /home/zeus/miniconda3/bin/conda info --json
+2024-12-25 12:29:17.125 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2024-12-25 12:29:27.515 [info] Starting Pylance language server.
+2024-12-25 12:30:17.400 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/MultiDocumentRAG.py
+2024-12-25 12:31:00.952 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/MultiDocumentRAG.py
+2024-12-25 12:31:52.982 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/MultiDocumentRAG.py
+2024-12-25 12:46:37.175 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/MultiDocumentRAG.py
+2024-12-25 12:46:50.574 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/MultiDocumentRAG.py
+2024-12-25 12:50:23.192 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/MultiDocumentRAG.py
+2024-12-25 12:58:03.473 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/MultiDocumentRAG.py
+2024-12-25 12:58:32.271 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/MultiDocumentRAG.py
+2024-12-25 13:02:43.894 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/MultiDocumentRAG.py
+2024-12-25 13:05:21.262 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/MultiDocumentRAG.py
+2024-12-25 13:05:22.651 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/MultiDocumentRAG.py
+2024-12-25 13:21:36.952 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/MultiDocumentRAG.py
+2024-12-25 13:22:11.752 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/MultiDocumentRAG.py
+2024-12-25 13:24:28.375 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/MultiDocumentRAG.py
+2024-12-25 15:18:40.527 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/llm.py
+2024-12-25 15:19:47.934 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/llm.py
+2024-12-25 15:23:22.170 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/llm.py
+2024-12-25 15:24:00.529 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/llm.py
+2024-12-25 15:24:02.402 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/MultiDocumentRAG.py
+2024-12-25 15:24:12.020 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/llm.py
+2024-12-25 15:24:17.949 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/llm.py

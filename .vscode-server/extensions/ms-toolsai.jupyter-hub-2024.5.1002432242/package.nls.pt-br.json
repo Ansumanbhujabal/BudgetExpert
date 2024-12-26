@@ -1,0 +1,1 @@
+{"capabilities.untrustedWorkspace.description":"Não há suporte para a execução de células em Janela Interativa e Blocos de Anotações em workspaces não confiáveis.","jupyterHub.configuration.jupyterHub.log.description":"O nível de log no qual a extensão faz logon."}

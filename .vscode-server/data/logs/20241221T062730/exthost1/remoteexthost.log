@@ -1,0 +1,29 @@
+2024-12-21 06:27:43.098 [info] Extension host with pid 1731 started
+2024-12-21 06:27:43.111 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/c98d4731a5215d76c1de2b73d14eb7c0/vscode.lock': Lock acquired.
+2024-12-21 06:27:43.490 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-12-21 06:27:43.491 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-12-21 06:27:43.491 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-12-21 06:27:43.491 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-12-21 06:27:43.491 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-12-21 06:27:43.492 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-12-21 06:27:43.492 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2024-12-21 06:27:44.200 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-12-21 06:27:44.200 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-12-21 06:27:44.494 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:requirements.txt'
+2024-12-21 06:27:45.320 [info] Eager extensions activated
+2024-12-21 06:27:45.320 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-21 06:27:45.320 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-12-21 06:27:45.860 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-12-21 06:27:45.861 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-12-21 06:27:45.861 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2024-12-21 06:27:46.747 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2024-12-21 07:58:34.850 [error] Error: Unknown system error -116: Unknown system error -116, open '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/c98d4731a5215d76c1de2b73d14eb7c0/vscode.lock'
+	at async open (node:internal/fs/promises:639:25)
+	at async Object.readFile (node:internal/fs/promises:1242:14)
+	at async Sy (file:///teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/workbench/api/node/extensionHostProcess.js:175:6082)
+	at async file:///teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/workbench/api/node/extensionHostProcess.js:175:5089
+2024-12-21 07:58:34.851 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/c98d4731a5215d76c1de2b73d14eb7c0/vscode.lock': The lock was lost unexpectedly.
+2024-12-21 07:58:34.851 [error] Error: Unknown system error -116: Unknown system error -116, utime '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/c98d4731a5215d76c1de2b73d14eb7c0/vscode.lock'
+	at async Object.utimes (node:internal/fs/promises:1134:10)
+	at async file:///teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/server/out/vs/workbench/api/node/extensionHostProcess.js:175:5207
+2024-12-21 07:58:34.851 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/c98d4731a5215d76c1de2b73d14eb7c0/vscode.lock': Could not update mtime.

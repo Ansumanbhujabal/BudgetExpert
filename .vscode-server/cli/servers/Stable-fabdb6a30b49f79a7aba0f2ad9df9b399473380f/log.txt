@@ -1,0 +1,219 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to /tmp/code-c5e7739d-0c52-4271-ad41-23cbd3ad2319
+Extension host agent listening on /tmp/code-c5e7739d-0c52-4271-ad41-23cbd3ad2319
+
+[05:21:57] 
+
+
+
+
+[05:21:57] Extension host agent started.
+[05:21:58] [<unknown>][24189ab2][ManagementConnection] New connection established.
+[05:21:58] [<unknown>][d042725e][ExtensionHostConnection] New connection established.
+[05:21:58] [<unknown>][d042725e][ExtensionHostConnection] <28730> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[05:26:57] New EH opened, aborting shutdown
+rejected promise not handled within 1 second: Error: connect ECONNREFUSED 127.0.0.1:8501
+stack trace: Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+[07:24:18] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8501
+}
+rejected promise not handled within 1 second: Error: connect ECONNREFUSED 127.0.0.1:8501
+stack trace: Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+[07:24:18] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8501
+}
+rejected promise not handled within 1 second: Error: connect ECONNREFUSED 127.0.0.1:8501
+stack trace: Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+[07:24:34] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8501
+}
+rejected promise not handled within 1 second: Error: connect ECONNREFUSED 127.0.0.1:8501
+stack trace: Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+[07:24:34] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8501
+}
+rejected promise not handled within 1 second: Error: connect ECONNREFUSED 127.0.0.1:8501
+stack trace: Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+[07:24:50] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8501
+}
+rejected promise not handled within 1 second: Error: connect ECONNREFUSED 127.0.0.1:8501
+stack trace: Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+[07:24:50] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8501
+}
+rejected promise not handled within 1 second: Error: connect ECONNREFUSED 127.0.0.1:8501
+stack trace: Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+[07:25:07] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8501
+}
+rejected promise not handled within 1 second: Error: connect ECONNREFUSED 127.0.0.1:8501
+stack trace: Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+[07:25:07] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8501
+}
+rejected promise not handled within 1 second: Error: connect ECONNREFUSED 127.0.0.1:8501
+stack trace: Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+[07:25:27] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8501
+}
+rejected promise not handled within 1 second: Error: connect ECONNREFUSED 127.0.0.1:8501
+stack trace: Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+[07:25:27] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8501
+}
+rejected promise not handled within 1 second: Error: connect ECONNREFUSED 127.0.0.1:8501
+stack trace: Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+[07:25:49] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8501
+}
+rejected promise not handled within 1 second: Error: connect ECONNREFUSED 127.0.0.1:8501
+stack trace: Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+[07:25:49] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8501
+}
+rejected promise not handled within 1 second: Error: connect ECONNREFUSED 127.0.0.1:8501
+stack trace: Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+[07:26:23] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8501
+}
+rejected promise not handled within 1 second: Error: connect ECONNREFUSED 127.0.0.1:8501
+stack trace: Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+[07:26:23] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8501
+}
+rejected promise not handled within 1 second: Error: connect ECONNREFUSED 127.0.0.1:8501
+stack trace: Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+[07:27:06] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8501
+}
+rejected promise not handled within 1 second: Error: connect ECONNREFUSED 127.0.0.1:8501
+stack trace: Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+[07:27:06] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8501
+}
+rejected promise not handled within 1 second: Error: connect ECONNREFUSED 127.0.0.1:8501
+stack trace: Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+[07:28:15] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8501
+}
+rejected promise not handled within 1 second: Error: connect ECONNREFUSED 127.0.0.1:8501
+stack trace: Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16)
+[07:28:15] Error: connect ECONNREFUSED 127.0.0.1:8501
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1611:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 8501
+}

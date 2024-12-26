@@ -1,0 +1,15 @@
+2024-12-25 03:45:10.043 [info] 
+
+
+
+
+2024-12-25 03:45:10.052 [info] Extension host agent started.
+2024-12-25 03:45:10.956 [info] [<unknown>][80ba86e1][ExtensionHostConnection] New connection established.
+2024-12-25 03:45:11.001 [info] [<unknown>][fa7d6c15][ManagementConnection] New connection established.
+2024-12-25 03:45:11.068 [info] [<unknown>][80ba86e1][ExtensionHostConnection] <2771> Launched Extension Host Process.
+2024-12-25 03:45:11.542 [info] Deleted uninstalled extension from disk ms-python.python /teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.22.0-linux-x64
+2024-12-25 03:50:10.052 [info] New EH opened, aborting shutdown
+2024-12-25 11:52:00.985 [info] [<unknown>][fa7d6c15][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-25 11:52:01.050 [info] [<unknown>][80ba86e1][ExtensionHostConnection] <2771> Extension Host Process exited with code: 0, signal: null.
+2024-12-25 11:52:01.050 [info] Last EH closed, waiting before shutting down
+2024-12-25 11:57:01.053 [info] Last EH closed, shutting down

@@ -1,0 +1,6 @@
+Listening on 127.0.0.1:50275
+[2024-12-21 06:27:29] info Disposed of connection to running server.
+[2024-12-21 06:27:29] info Checking /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/log.txt and /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-138f619c86f1199955d53b4166bef66ef252935c/pid.txt for a running server...
+[2024-12-21 06:27:29] info Starting server...
+[2024-12-21 06:27:30] info Server started
+[2024-12-21 07:47:52] info Disposed of connection to running server.

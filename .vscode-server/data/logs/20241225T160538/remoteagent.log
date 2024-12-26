@@ -1,0 +1,21 @@
+2024-12-25 16:05:41.913 [info] 
+
+
+
+
+2024-12-25 16:05:42.066 [info] Extension host agent started.
+2024-12-25 16:05:42.694 [info] [<unknown>][dc48549b][ExtensionHostConnection] New connection established.
+2024-12-25 16:05:42.695 [info] [<unknown>][1b5d7922][ManagementConnection] New connection established.
+2024-12-25 16:05:42.779 [info] [<unknown>][dc48549b][ExtensionHostConnection] <1770> Launched Extension Host Process.
+2024-12-25 16:05:49.091 [error] [File Watcher] Unexpected error: inotify_add_watch on '/teamspace/studios/this_studio/.vscode-server/data/logs/20241214T180711/exthost1/output_logging_20241214T180719' failed: No such file or directory (EUNKNOWN) (path: /teamspace/studios/this_studio)
+2024-12-25 16:05:49.092 [error] [File Watcher (universal)] inotify_add_watch on '/teamspace/studios/this_studio/.vscode-server/data/logs/20241214T180711/exthost1/output_logging_20241214T180719' failed: No such file or directory
+2024-12-25 16:10:42.067 [info] New EH opened, aborting shutdown
+2024-12-25 18:31:52.736 [info] [<unknown>][1b5d7922][ManagementConnection] The client has reconnected.
+2024-12-25 18:32:21.645 [info] [<unknown>][dc48549b][ExtensionHostConnection] The client has reconnected.
+2024-12-25 19:56:51.440 [info] [<unknown>][1b5d7922][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-25 19:56:51.446 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/server/out/server-main.js:184:1060)
+    at process.emit (node:events:530:35)
+2024-12-25 19:56:51.506 [info] [<unknown>][dc48549b][ExtensionHostConnection] <1770> Extension Host Process exited with code: 0, signal: null.
+2024-12-25 19:56:51.506 [info] Last EH closed, waiting before shutting down
+2024-12-25 20:01:51.507 [info] Last EH closed, shutting down

@@ -1,0 +1,38 @@
+2024-12-24 17:18:01.692 [info] Starting Python Locator /teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.22.0-linux-x64/python-env-tools/bin/pet server
+2024-12-24 17:18:01.692 [info] Discovered manager: (Poetry) /commands/poetry
+2024-12-24 17:18:01.692 [info] Discovered manager: (Conda) /home/zeus/miniconda3/bin/conda
+2024-12-24 17:18:01.692 [info] Discovered env: /home/zeus/miniconda3/envs/cloudspace/bin/python
+2024-12-24 17:18:01.692 [info] Discovered env: /bin/python3
+2024-12-24 17:18:01.692 [info] Discovered env: /usr/bin/python3
+2024-12-24 17:18:01.692 [info] Locator Conda took 103.579936ms
+2024-12-24 17:18:01.692 [info] Locator Homebrew took 681.806µs
+2024-12-24 17:18:01.692 [info] Locator LinuxGlobal took 66.544921ms
+2024-12-24 17:18:01.692 [info] Locator PipEnv took 15.77µs
+2024-12-24 17:18:01.692 [info] Locator Poetry took 364.997µs
+2024-12-24 17:18:01.692 [info] Locator PyEnv took 856.377µs
+2024-12-24 17:18:01.692 [info] Locator Venv took 47.122µs
+2024-12-24 17:18:01.692 [info] Locator VirtualEnv took 10.817µs
+2024-12-24 17:18:01.692 [info] Locator VirtualEnvWrapper took 12.609µs
+2024-12-24 17:18:01.692 [info] Locator GlobalVirtualEnvs took 967.718µs
+2024-12-24 17:18:01.692 [info] Locator Locators took 103.70528ms
+2024-12-24 17:18:01.692 [info] Locator Path took 147.365471ms
+2024-12-24 17:18:01.692 [info] Locator Workspaces took 70.285899ms
+2024-12-24 17:18:01.692 [info] Refresh completed in 147ms
+2024-12-24 17:18:02.052 [info] Resolved Python Environment /home/zeus/miniconda3/envs/cloudspace/bin/python
+2024-12-24 17:18:03.410 [warning] Could not find Python executable in "/teamspace/studios/this_studio/.vscode-server/extensions/.35144aef-5b8b-4de7-a35f-0fa6a7ddb77b/python_files/lib/python"
+2024-12-24 17:18:03.410 [error] Failed to execute Python to resolve info "/teamspace/studios/this_studio/.vscode-server/extensions/.35144aef-5b8b-4de7-a35f-0fa6a7ddb77b/python_files/lib/python": Permission denied (os error 13)
+2024-12-24 17:18:03.410 [warning] Unknown Python Env "/teamspace/studios/this_studio/.vscode-server/extensions/.35144aef-5b8b-4de7-a35f-0fa6a7ddb77b/python_files/lib/python"
+2024-12-24 17:18:03.410 [error] Failed to resolve env "/teamspace/studios/this_studio/.vscode-server/extensions/.35144aef-5b8b-4de7-a35f-0fa6a7ddb77b/python_files/lib/python"
+2024-12-24 17:18:03.835 [warning] Could not find Python executable in "/teamspace/studios/this_studio/.vscode-server/extensions/.35144aef-5b8b-4de7-a35f-0fa6a7ddb77b/python_files/lib/jedilsp/parso/python"
+2024-12-24 17:18:03.839 [error] Failed to execute Python to resolve info "/teamspace/studios/this_studio/.vscode-server/extensions/.35144aef-5b8b-4de7-a35f-0fa6a7ddb77b/python_files/lib/jedilsp/parso/python": Permission denied (os error 13)
+2024-12-24 17:18:03.839 [warning] Unknown Python Env "/teamspace/studios/this_studio/.vscode-server/extensions/.35144aef-5b8b-4de7-a35f-0fa6a7ddb77b/python_files/lib/jedilsp/parso/python"
+2024-12-24 17:18:03.839 [error] Failed to resolve env "/teamspace/studios/this_studio/.vscode-server/extensions/.35144aef-5b8b-4de7-a35f-0fa6a7ddb77b/python_files/lib/jedilsp/parso/python"
+2024-12-24 19:40:14.207 [info] Resolved Python Environment /home/zeus/miniconda3/envs/cloudspace/bin/python
+2024-12-24 19:47:48.881 [info] Resolved Python Environment /home/zeus/miniconda3/envs/cloudspace/bin/python
+2024-12-24 19:51:06.836 [info] Resolved Python Environment /home/zeus/miniconda3/envs/cloudspace/bin/python
+2024-12-24 19:54:16.130 [info] Resolved Python Environment /home/zeus/miniconda3/envs/cloudspace/bin/python
+2024-12-24 19:55:50.960 [info] Resolved Python Environment /home/zeus/miniconda3/envs/cloudspace/bin/python
+2024-12-24 19:58:48.290 [info] Resolved Python Environment /home/zeus/miniconda3/envs/cloudspace/bin/python
+2024-12-24 19:59:28.572 [info] Resolved Python Environment /home/zeus/miniconda3/envs/cloudspace/bin/python
+2024-12-24 20:00:55.884 [info] Resolved Python Environment /home/zeus/miniconda3/envs/cloudspace/bin/python
+2024-12-24 20:01:28.313 [info] Resolved Python Environment /home/zeus/miniconda3/envs/cloudspace/bin/python

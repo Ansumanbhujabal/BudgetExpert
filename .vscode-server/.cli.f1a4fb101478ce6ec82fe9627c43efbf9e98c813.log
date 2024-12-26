@@ -1,6 +1,6 @@
-Listening on 127.0.0.1:50083
-looking for token 480f6d6b-fbb3-4560-9cc5-1eaa98d7f30c, got Some("480f6d6b-fbb3-4560-9cc5-1eaa98d7f30c")
-[2024-12-04 15:53:17] info Disposed of connection to running server.
-[2024-12-04 15:53:18] info Checking /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/log.txt and /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/pid.txt for a running server...
-[2024-12-04 15:53:18] info Starting server...
-[2024-12-04 15:53:18] info Server started
+Listening on 127.0.0.1:50221
+looking for token b1c705f4-bf74-4722-8c8b-bd94ee58aaa4, got Some("b1c705f4-bf74-4722-8c8b-bd94ee58aaa4")
+[2024-12-12 03:38:15] info Disposed of connection to running server.
+[2024-12-12 03:38:15] info Checking /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/log.txt and /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-f1a4fb101478ce6ec82fe9627c43efbf9e98c813/pid.txt for a running server...
+[2024-12-12 03:38:15] info Found running server (pid=2926)
+[2024-12-12 04:26:43] info Disposed of connection to running server.

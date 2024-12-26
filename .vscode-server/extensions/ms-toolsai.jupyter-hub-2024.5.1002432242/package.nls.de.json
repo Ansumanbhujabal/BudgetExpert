@@ -1,0 +1,1 @@
+{"capabilities.untrustedWorkspace.description":"Die Ausführung von Zellen in Interactive-Fenstern und Notebooks wird in nicht vertrauenswürdigen Arbeitsbereichen nicht unterstützt.","jupyterHub.configuration.jupyterHub.log.description":"Der Protokolliergrad, auf dem die Erweiterung protokolliert wird."}

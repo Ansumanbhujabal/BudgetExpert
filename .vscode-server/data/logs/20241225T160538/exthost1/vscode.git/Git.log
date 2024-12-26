@@ -1,0 +1,47 @@
+2024-12-25 16:05:52.896 [info] [main] Log level: Info
+2024-12-25 16:05:52.896 [info] [main] Validating found git in: "git"
+2024-12-25 16:05:52.896 [info] [main] Using git "2.42.0" from "git"
+2024-12-25 16:05:52.896 [info] [Model][doInitialScan] Initial repository scan started
+2024-12-25 16:05:52.896 [info] > git rev-parse --show-toplevel [4ms]
+2024-12-25 16:05:52.899 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2024-12-25 16:05:52.905 [info] [Model][openRepository] Opened repository: /teamspace/studios/this_studio
+2024-12-25 16:05:52.912 [info] > git config --get commit.template [4ms]
+2024-12-25 16:05:52.915 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-12-25 16:05:52.920 [info] > git rev-parse --show-toplevel [5ms]
+2024-12-25 16:05:52.924 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-25 16:05:52.928 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-25 16:05:52.932 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-25 16:05:52.935 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-25 16:05:52.940 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-25 16:05:52.943 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-25 16:05:52.947 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-25 16:05:52.950 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-25 16:05:52.954 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-25 16:05:52.958 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-25 16:05:52.962 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-25 16:05:52.966 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-25 16:05:52.967 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-12-25 16:05:52.975 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [54ms]
+2024-12-25 16:05:53.723 [info] > git check-ignore -v -z --stdin [4ms]
+2024-12-25 16:05:54.112 [info] > git ls-files --stage -- /teamspace/studios/this_studio/llm.py [2ms]
+2024-12-25 16:05:54.146 [info] > git show --textconv :llm.py [40ms]
+2024-12-25 16:05:54.157 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [44ms]
+2024-12-25 16:05:54.636 [info] > git blame --root --incremental 2b88efe3130a40aa1abd4af03eb8e5de4b76899c -- /teamspace/studios/this_studio/llm.py [110ms]
+2024-12-25 16:06:09.497 [info] > git status -z -uall [16580ms] (cancelled)
+2024-12-25 18:31:03.942 [info] > git show --textconv :Extraction.py [4ms]
+2024-12-25 18:31:03.944 [info] > git ls-files --stage -- /teamspace/studios/this_studio/Extraction.py [4ms]
+2024-12-25 18:31:04.351 [info] > git blame --root --incremental 2b88efe3130a40aa1abd4af03eb8e5de4b76899c -- /teamspace/studios/this_studio/Extraction.py [4ms]
+2024-12-25 18:31:04.351 [info] fatal: no such path Extraction.py in 2b88efe3130a40aa1abd4af03eb8e5de4b76899c
+2024-12-25 18:50:10.197 [info] > git show --textconv :llm.py [3ms]
+2024-12-25 18:50:10.199 [info] > git ls-files --stage -- /teamspace/studios/this_studio/llm.py [2ms]
+2024-12-25 18:50:10.203 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [2ms]
+2024-12-25 19:40:22.474 [info] > git check-ignore -v -z --stdin [3ms]
+2024-12-25 19:40:22.836 [info] > git show --textconv :app.py [3ms]
+2024-12-25 19:40:22.838 [info] > git ls-files --stage -- /teamspace/studios/this_studio/app.py [2ms]
+2024-12-25 19:40:24.409 [info] > git ls-files --stage -- /teamspace/studios/this_studio/llm.py [3ms]
+2024-12-25 19:40:24.419 [info] > git show --textconv :llm.py [14ms]
+2024-12-25 19:40:24.422 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [11ms]
+2024-12-25 19:40:27.558 [info] > git show --textconv :app.py [3ms]
+2024-12-25 19:40:27.561 [info] > git ls-files --stage -- /teamspace/studios/this_studio/app.py [3ms]
+2024-12-25 19:40:28.817 [info] > git blame --root --incremental 2b88efe3130a40aa1abd4af03eb8e5de4b76899c -- /teamspace/studios/this_studio/app.py [2ms]
+2024-12-25 19:40:28.817 [info] fatal: no such path app.py in 2b88efe3130a40aa1abd4af03eb8e5de4b76899c

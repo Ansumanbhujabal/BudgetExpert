@@ -1,0 +1,16 @@
+2024-12-17 20:29:39.312 [info] 
+
+
+
+
+2024-12-17 20:29:39.421 [info] Extension host agent started.
+2024-12-17 20:29:40.046 [info] [<unknown>][444e88dd][ManagementConnection] New connection established.
+2024-12-17 20:29:40.047 [info] [<unknown>][ce373ee1][ExtensionHostConnection] New connection established.
+2024-12-17 20:29:40.142 [info] [<unknown>][ce373ee1][ExtensionHostConnection] <1437> Launched Extension Host Process.
+2024-12-17 20:29:47.333 [error] [File Watcher] Unexpected error: inotify_add_watch on '/teamspace/studios/this_studio/.vscode-server/data/logs/20241204T155318/exthost1/vscode.github' failed: No such file or directory (EUNKNOWN) (path: /teamspace/studios/this_studio)
+2024-12-17 20:29:47.334 [error] [File Watcher (universal)] inotify_add_watch on '/teamspace/studios/this_studio/.vscode-server/data/logs/20241204T155318/exthost1/vscode.github' failed: No such file or directory
+2024-12-17 20:34:39.422 [info] New EH opened, aborting shutdown
+2024-12-17 20:37:59.974 [info] [<unknown>][444e88dd][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-17 20:38:00.064 [info] [<unknown>][ce373ee1][ExtensionHostConnection] <1437> Extension Host Process exited with code: 0, signal: null.
+2024-12-17 20:38:00.064 [info] Last EH closed, waiting before shutting down
+2024-12-17 20:43:00.065 [info] Last EH closed, shutting down

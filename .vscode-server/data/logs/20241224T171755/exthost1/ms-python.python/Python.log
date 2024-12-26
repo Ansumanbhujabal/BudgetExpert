@@ -1,0 +1,24 @@
+2024-12-24 17:18:01.692 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-12-24 17:18:01.692 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-12-24 17:18:01.692 [info] Experiment 'pythonTestAdapter' is active
+2024-12-24 17:18:01.692 [info] Native locator: Refresh started
+2024-12-24 17:18:01.692 [info] Poetry environment manager found at: /commands/poetry
+2024-12-24 17:18:01.692 [info] Conda environment manager found at: /home/zeus/miniconda3/bin/conda
+2024-12-24 17:18:01.692 [info] Native locator: Refresh finished in 582 ms
+2024-12-24 17:18:02.053 [info] Python interpreter path: /home/zeus/miniconda3/envs/cloudspace/bin/python
+2024-12-24 17:18:02.837 [info] > pyenv which python
+2024-12-24 17:18:02.837 [info] cwd: .
+2024-12-24 17:18:02.977 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/.vscode-server/extensions/.35144aef-5b8b-4de7-a35f-0fa6a7ddb77b/python_files/pyproject.toml
+2024-12-24 17:18:03.101 [info] > /home/zeus/miniconda3/bin/conda info --json
+2024-12-24 17:18:03.544 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/.vscode-server/extensions/.35144aef-5b8b-4de7-a35f-0fa6a7ddb77b/python_files/.vscode/settings.json
+2024-12-24 17:18:04.313 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2024-12-24 17:18:14.191 [info] Starting Pylance language server.
+2024-12-24 19:52:19.350 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/Downloader.py
+2024-12-24 19:52:44.682 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/Downloader.py
+2024-12-24 19:55:01.968 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/Downloader.py
+2024-12-24 19:55:16.579 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/Downloader.py
+2024-12-24 19:55:38.838 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/Downloader.py
+2024-12-24 19:56:09.939 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/Downloader.py
+2024-12-24 20:00:11.289 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/Downloader.py
+2024-12-24 20:00:12.623 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/Downloader.py
+2024-12-24 20:02:16.611 [info] Discover tests for workspace name: undefined - uri: /home/ansuman/.config/Code/User/settings.json

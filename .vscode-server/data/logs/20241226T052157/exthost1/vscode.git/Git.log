@@ -1,0 +1,47 @@
+2024-12-26 05:22:06.060 [info] [main] Log level: Info
+2024-12-26 05:22:06.060 [info] [main] Validating found git in: "git"
+2024-12-26 05:22:06.060 [info] [main] Using git "2.42.0" from "git"
+2024-12-26 05:22:06.060 [info] [Model][doInitialScan] Initial repository scan started
+2024-12-26 05:22:06.060 [info] > git rev-parse --show-toplevel [30ms]
+2024-12-26 05:22:06.060 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-12-26 05:22:06.060 [info] [Model][openRepository] Opened repository: /teamspace/studios/this_studio
+2024-12-26 05:22:06.068 [info] > git config --get commit.template [7ms]
+2024-12-26 05:22:06.069 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-12-26 05:22:06.092 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-26 05:22:06.095 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [20ms]
+2024-12-26 05:22:06.099 [info] > git rev-parse --show-toplevel [3ms]
+2024-12-26 05:22:06.106 [info] > git rev-parse --show-toplevel [4ms]
+2024-12-26 05:22:06.113 [info] > git rev-parse --show-toplevel [3ms]
+2024-12-26 05:22:06.126 [info] > git rev-parse --show-toplevel [5ms]
+2024-12-26 05:22:06.132 [info] > git rev-parse --show-toplevel [3ms]
+2024-12-26 05:22:06.145 [info] > git rev-parse --show-toplevel [4ms]
+2024-12-26 05:22:06.152 [info] > git rev-parse --show-toplevel [3ms]
+2024-12-26 05:22:06.158 [info] > git rev-parse --show-toplevel [3ms]
+2024-12-26 05:22:06.163 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-26 05:22:06.167 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-26 05:22:06.173 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-26 05:22:06.177 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-26 05:22:06.179 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-12-26 05:22:06.879 [info] > git check-ignore -v -z --stdin [3ms]
+2024-12-26 05:22:07.032 [info] > git show --textconv :app.py [7ms]
+2024-12-26 05:22:07.039 [info] > git ls-files --stage -- /teamspace/studios/this_studio/app.py [9ms]
+2024-12-26 05:22:07.453 [info] > git blame --root --incremental 2b88efe3130a40aa1abd4af03eb8e5de4b76899c -- /teamspace/studios/this_studio/app.py [17ms]
+2024-12-26 05:22:07.453 [info] fatal: no such path app.py in 2b88efe3130a40aa1abd4af03eb8e5de4b76899c
+2024-12-26 05:22:10.611 [info] > git status -z -uall [4537ms] (cancelled)
+2024-12-26 07:24:39.364 [info] > git check-ignore -v -z --stdin [7ms]
+2024-12-26 07:25:01.334 [info] > git check-ignore -v -z --stdin [4ms]
+2024-12-26 07:25:02.581 [info] > git check-ignore -v -z --stdin [3ms]
+2024-12-26 07:25:05.027 [info] > git check-ignore -v -z --stdin [8ms]
+2024-12-26 07:25:06.425 [info] > git check-ignore -v -z --stdin [4ms]
+2024-12-26 07:25:09.004 [info] > git check-ignore -v -z --stdin [3ms]
+2024-12-26 07:25:56.143 [info] > git check-ignore -v -z --stdin [3ms]
+2024-12-26 07:26:22.950 [info] > git check-ignore -v -z --stdin [3ms]
+2024-12-26 07:26:49.298 [info] > git check-ignore -v -z --stdin [3ms]
+2024-12-26 07:27:08.682 [info] > git check-ignore -v -z --stdin [3ms]
+2024-12-26 07:27:09.969 [info] > git check-ignore -v -z --stdin [2ms]
+2024-12-26 07:27:11.263 [info] > git check-ignore -v -z --stdin [2ms]
+2024-12-26 07:27:12.607 [info] > git check-ignore -v -z --stdin [3ms]
+2024-12-26 07:27:32.540 [info] > git show --textconv :credentials.json [6ms]
+2024-12-26 07:27:32.542 [info] > git ls-files --stage -- /teamspace/studios/this_studio/credentials.json [2ms]
+2024-12-26 07:27:40.306 [info] > git show --textconv :app.py [11ms]
+2024-12-26 07:27:40.331 [info] > git ls-files --stage -- /teamspace/studios/this_studio/app.py [29ms]

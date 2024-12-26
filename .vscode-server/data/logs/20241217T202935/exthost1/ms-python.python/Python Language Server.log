@@ -1,0 +1,20 @@
+2024-12-17 20:29:54.164 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.22.0)
+2024-12-17 20:29:54.596 [info] [Info  - 8:29:54 PM] (2123) Server root directory: file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2024-12-17 20:29:54.597 [info] [Info  - 8:29:54 PM] (2123) Pylance language server 2024.12.1 (pyright version 1.1.389, commit ce1325fc) starting
+2024-12-17 20:29:54.597 [info] [Info  - 8:29:54 PM] (2123) Starting service instance "this_studio"
+2024-12-17 20:29:54.655 [info] [Info  - 8:29:54 PM] (2123) Setting environmentName for service "this_studio": "3.10.10 (cloudspace conda)"
+2024-12-17 20:29:54.656 [info] [Info  - 8:29:54 PM] (2123) Setting pythonPath for service "this_studio": "/home/zeus/miniconda3/envs/cloudspace/bin/python"
+2024-12-17 20:29:54.656 [info] [Info  - 8:29:54 PM] (2123) No include entries specified; assuming /teamspace/studios/this_studio
+2024-12-17 20:29:54.657 [info] [Info  - 8:29:54 PM] (2123) Auto-excluding **/node_modules
+2024-12-17 20:29:54.657 [info] [Info  - 8:29:54 PM] (2123) Auto-excluding **/__pycache__
+2024-12-17 20:29:54.657 [info] [Info  - 8:29:54 PM] (2123) Auto-excluding **/.*
+2024-12-17 20:29:54.683 [info] [Info  - 8:29:54 PM] (2123) Assuming Python version 3.10.10.final.0
+2024-12-17 20:29:54.949 [info] [Info  - 8:29:54 PM] (2123) Found 5 source files
+2024-12-17 20:29:55.109 [info] [Info  - 8:29:55 PM] (2123) Background analysis(1) root directory: file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2024-12-17 20:29:55.111 [info] [Info  - 8:29:55 PM] (2123) Background analysis(1) started
+2024-12-17 20:33:33.769 [info] [Info  - 8:33:33 PM] (2123) Indexer background runner(2) root directory: file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2024-12-17 20:33:33.775 [info] [Info  - 8:33:33 PM] (2123) Indexing(2) started
+2024-12-17 20:33:34.653 [info] [Info  - 8:33:34 PM] (2123) scanned(2) 555 files over 1 exec env
+2024-12-17 20:33:34.964 [info] [Info  - 8:33:34 PM] (2123) indexed(2) 555 files over 1 exec env
+2024-12-17 20:33:35.103 [info] [Info  - 8:33:35 PM] (2123) Indexing finished(2).
+2024-12-17 20:33:41.642 [info] [Info  - 8:33:41 PM] (2123) [BG(1)] Long operation: SemanticTokens full at file:///teamspace/studios/this_studio/llm.py (2437ms)

@@ -1,0 +1,794 @@
+2024-12-20 17:03:27,579 - INFO - Script started
+2024-12-20 17:03:27,579 - INFO - Loaded JSON data successfully
+2024-12-20 17:03:27,579 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/eb/vol1.pdf
+2024-12-20 17:03:30,646 - INFO - Last modified: 2024-07-21 10:20:01
+2024-12-20 17:03:30,647 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/eb/vol1.pdf
+2024-12-20 17:03:30,650 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/AFS/afs7.pdf
+2024-12-20 17:03:34,175 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/doc/AFS/afs7.pdf
+2024-12-20 17:03:34,175 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/doc/AFS/afs7.pdf
+2024-12-20 17:03:34,175 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/rec/annex2.pdf
+2024-12-20 17:03:37,252 - INFO - Last modified: 2024-07-21 17:11:40
+2024-12-20 17:03:37,252 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/rec/annex2.pdf
+2024-12-20 17:03:37,252 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/bh1.pdf
+2024-12-20 17:03:40,301 - INFO - Last modified: 2024-07-22 22:33:45
+2024-12-20 17:03:40,301 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/bh1.pdf
+2024-12-20 17:03:40,302 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/rec/annex4.pdf
+2024-12-20 17:03:43,352 - INFO - Last modified: 2024-07-22 04:04:14
+2024-12-20 17:03:43,353 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/rec/annex4.pdf
+2024-12-20 17:03:43,353 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/AFS/afs4.pdf
+2024-12-20 17:03:46,863 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/doc/AFS/afs4.pdf
+2024-12-20 17:03:46,864 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/doc/AFS/afs4.pdf
+2024-12-20 17:03:46,864 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/rec/annex9.pdf
+2024-12-20 17:03:49,904 - INFO - Last modified: 2024-07-22 06:48:19
+2024-12-20 17:03:49,904 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/rec/annex9.pdf
+2024-12-20 17:03:49,904 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2023-24/doc/AFS/afs3.pdf
+2024-12-20 17:03:53,419 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2023-24/doc/AFS/afs3.pdf
+2024-12-20 17:03:53,420 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2023-24/doc/AFS/afs3.pdf
+2024-12-20 17:03:53,420 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/rec/ar.pdf
+2024-12-20 17:03:56,640 - INFO - Last modified: 2024-07-21 21:14:02
+2024-12-20 17:03:56,640 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/rec/ar.pdf
+2024-12-20 17:03:56,640 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/AFS/afs1.pdf
+2024-12-20 17:04:00,452 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/doc/AFS/afs1.pdf
+2024-12-20 17:04:00,452 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/doc/AFS/afs1.pdf
+2024-12-20 17:04:00,452 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/rec/annex7.pdf
+2024-12-20 17:04:03,515 - INFO - Last modified: 2024-07-21 12:41:01
+2024-12-20 17:04:03,516 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/rec/annex7.pdf
+2024-12-20 17:04:03,516 - INFO - Checking URL: https://www.indiabudget.gov.in/economicsurvey/doc/eschapter/epreface.pdf
+2024-12-20 17:04:06,738 - INFO - Last modified: 2024-07-23 04:12:41
+2024-12-20 17:04:06,738 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/economicsurvey/doc/eschapter/epreface.pdf
+2024-12-20 17:04:06,738 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/Budget_at_Glance/budget_at_a_glance.pdf
+2024-12-20 17:04:09,954 - INFO - Last modified: 2024-07-22 12:07:29
+2024-12-20 17:04:09,954 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/Budget_at_Glance/budget_at_a_glance.pdf
+2024-12-20 17:04:09,954 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/rec/allrec.pdf
+2024-12-20 17:04:13,010 - INFO - Last modified: 2024-07-22 06:48:55
+2024-12-20 17:04:13,010 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/rec/allrec.pdf
+2024-12-20 17:04:13,011 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/eb/alldg.pdf
+2024-12-20 17:04:16,537 - INFO - Last modified: 2024-07-20 19:01:32
+2024-12-20 17:04:16,537 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/eb/alldg.pdf
+2024-12-20 17:04:16,537 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/eb/sumsbe.pdf
+2024-12-20 17:04:19,839 - INFO - Last modified: 2024-07-21 04:00:21
+2024-12-20 17:04:19,840 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/eb/sumsbe.pdf
+2024-12-20 17:04:19,840 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/budget_speech.pdf
+2024-12-20 17:04:22,889 - INFO - Last modified: 2024-07-22 19:00:42
+2024-12-20 17:04:22,890 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/budget_speech.pdf
+2024-12-20 17:04:22,890 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/AFS/allafs.pdf
+2024-12-20 17:04:26,099 - INFO - Last modified: 2024-07-22 04:01:38
+2024-12-20 17:04:26,100 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/AFS/allafs.pdf
+2024-12-20 17:04:26,100 - INFO - Checking URL: https://www.indiabudget.gov.in/economicsurvey/doc/eschapter/echap09.pdf
+2024-12-20 17:04:29,313 - INFO - Last modified: 2024-07-20 08:29:10
+2024-12-20 17:04:29,313 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/economicsurvey/doc/eschapter/echap09.pdf
+2024-12-20 17:04:29,314 - INFO - Checking URL: https://www.indiabudget.gov.in/economicsurvey/doc/Statistical-Appendix-in-English.pdf
+2024-12-20 17:04:32,380 - INFO - Last modified: 2024-07-26 05:08:27
+2024-12-20 17:04:32,381 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/economicsurvey/doc/Statistical-Appendix-in-English.pdf
+2024-12-20 17:04:32,381 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/rec/annex5.pdf
+2024-12-20 17:04:35,841 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/doc/rec/annex5.pdf
+2024-12-20 17:04:35,842 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/doc/rec/annex5.pdf
+2024-12-20 17:04:35,842 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/rec/annex3.pdf
+2024-12-20 17:04:39,348 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/doc/rec/annex3.pdf
+2024-12-20 17:04:39,348 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/doc/rec/annex3.pdf
+2024-12-20 17:04:39,348 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/eb/allsbe.pdf
+2024-12-20 17:04:42,561 - INFO - Last modified: 2024-07-20 18:49:39
+2024-12-20 17:04:42,562 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/eb/allsbe.pdf
+2024-12-20 17:04:42,562 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/cen/dojstru1.pdf
+2024-12-20 17:04:45,783 - INFO - Last modified: 2024-07-23 09:17:42
+2024-12-20 17:04:45,783 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/cen/dojstru1.pdf
+2024-12-20 17:04:45,783 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/AFS/afs5.pdf
+2024-12-20 17:04:49,271 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/doc/AFS/afs5.pdf
+2024-12-20 17:04:49,271 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/doc/AFS/afs5.pdf
+2024-12-20 17:04:49,271 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/AFS/afs3.pdf
+2024-12-20 17:04:52,786 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/doc/AFS/afs3.pdf
+2024-12-20 17:04:52,787 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/doc/AFS/afs3.pdf
+2024-12-20 17:04:52,787 - INFO - Checking URL: https://www.indiabudget.gov.in/economicsurvey/doc/eschapter/echap11.pdf
+2024-12-20 17:04:56,013 - INFO - Last modified: 2024-07-20 08:31:14
+2024-12-20 17:04:56,013 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/economicsurvey/doc/eschapter/echap11.pdf
+2024-12-20 17:04:56,013 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/AFS/afs8.pdf
+2024-12-20 17:04:59,859 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/doc/AFS/afs8.pdf
+2024-12-20 17:04:59,859 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/doc/AFS/afs8.pdf
+2024-12-20 17:04:59,859 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/rec/annex4b.pdf
+2024-12-20 17:05:03,475 - INFO - Last modified: 2024-07-22 04:05:43
+2024-12-20 17:05:03,475 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/rec/annex4b.pdf
+2024-12-20 17:05:03,475 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2023-24/doc/Budget_at_Glance/bag1.pdf
+2024-12-20 17:05:06,540 - INFO - Last modified: 2023-01-31 19:58:40
+2024-12-20 17:05:06,540 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2023-24/doc/Budget_at_Glance/bag1.pdf
+2024-12-20 17:05:06,540 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/bspeech/bs202223.pdf
+2024-12-20 17:05:10,107 - INFO - Last modified: 2022-01-31 19:35:44
+2024-12-20 17:05:10,107 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/doc/bspeech/bs202223.pdf
+2024-12-20 17:05:10,107 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2002-03/mem/mem3.pdf
+2024-12-20 17:05:13,669 - INFO - Last modified: 2011-06-22 11:15:52
+2024-12-20 17:05:13,669 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2002-03/mem/mem3.pdf
+2024-12-20 17:05:13,669 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/AFS/afs9.pdf
+2024-12-20 17:05:17,145 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/doc/AFS/afs9.pdf
+2024-12-20 17:05:17,146 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/doc/AFS/afs9.pdf
+2024-12-20 17:05:17,146 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/eb/sbe26.pdf
+2024-12-20 17:05:20,351 - INFO - Last modified: 2024-07-20 17:09:26
+2024-12-20 17:05:20,351 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/eb/sbe26.pdf
+2024-12-20 17:05:20,351 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/rec/annex4a.pdf
+2024-12-20 17:05:23,866 - INFO - Last modified: 2024-07-22 04:04:40
+2024-12-20 17:05:23,867 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/rec/annex4a.pdf
+2024-12-20 17:05:23,867 - INFO - Checking URL: https://www.indiabudget.gov.in/economicsurvey/doc/eschapter/echap05.pdf
+2024-12-20 17:05:27,073 - INFO - Last modified: 2024-07-22 06:04:04
+2024-12-20 17:05:27,074 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/economicsurvey/doc/eschapter/echap05.pdf
+2024-12-20 17:05:27,074 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/eb/sbe20.pdf
+2024-12-20 17:05:30,277 - INFO - Last modified: 2024-07-20 17:08:50
+2024-12-20 17:05:30,277 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/eb/sbe20.pdf
+2024-12-20 17:05:30,277 - INFO - Checking URL: https://www.indiabudget.gov.in/budgetforbetterindia/images/budget-ebook.pdf
+2024-12-20 17:05:33,771 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budgetforbetterindia/images/budget-ebook.pdf
+2024-12-20 17:05:33,771 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budgetforbetterindia/images/budget-ebook.pdf
+2024-12-20 17:05:33,771 - INFO - Checking URL: https://www.indiabudget.gov.in/economicsurvey/doc/echapter.pdf
+2024-12-20 17:05:37,010 - INFO - Last modified: 2024-07-30 04:52:02
+2024-12-20 17:05:37,010 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/economicsurvey/doc/echapter.pdf
+2024-12-20 17:05:37,010 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/eb/sbe46.pdf
+2024-12-20 17:05:40,215 - INFO - Last modified: 2024-07-20 17:11:21
+2024-12-20 17:05:40,215 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/eb/sbe46.pdf
+2024-12-20 17:05:40,215 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/hbs.pdf
+2024-12-20 17:05:43,427 - INFO - Last modified: 2024-07-22 23:00:15
+2024-12-20 17:05:43,428 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/hbs.pdf
+2024-12-20 17:05:43,428 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/hbh1.pdf
+2024-12-20 17:05:46,628 - INFO - Last modified: 2024-07-22 23:28:17
+2024-12-20 17:05:46,628 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/hbh1.pdf
+2024-12-20 17:05:46,629 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2000-01/mem/mem3.pdf
+2024-12-20 17:05:49,826 - INFO - Last modified: 2000-02-29 10:48:50
+2024-12-20 17:05:49,827 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2000-01/mem/mem3.pdf
+2024-12-20 17:05:49,827 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2023-24/doc/AFS/afs9.pdf
+2024-12-20 17:05:53,603 - INFO - Last modified: 2023-01-31 07:53:28
+2024-12-20 17:05:53,603 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2023-24/doc/AFS/afs9.pdf
+2024-12-20 17:05:53,604 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/AFS/afs2.pdf
+2024-12-20 17:05:57,477 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/doc/AFS/afs2.pdf
+2024-12-20 17:05:57,478 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/doc/AFS/afs2.pdf
+2024-12-20 17:05:57,478 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/eb/sbe70.pdf
+2024-12-20 17:06:01,323 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/doc/eb/sbe70.pdf
+2024-12-20 17:06:01,323 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/doc/eb/sbe70.pdf
+2024-12-20 17:06:01,323 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/Budget_at_Glance/bag7.pdf
+2024-12-20 17:06:04,375 - INFO - Last modified: 2024-07-22 12:15:31
+2024-12-20 17:06:04,375 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/Budget_at_Glance/bag7.pdf
+2024-12-20 17:06:04,375 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/eb/sbe87.pdf
+2024-12-20 17:06:07,440 - INFO - Last modified: 2024-07-20 17:15:15
+2024-12-20 17:06:07,440 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/eb/sbe87.pdf
+2024-12-20 17:06:07,440 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2023-24/doc/AFS/afs4.pdf
+2024-12-20 17:06:12,142 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2023-24/doc/AFS/afs4.pdf
+2024-12-20 17:06:12,143 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2023-24/doc/AFS/afs4.pdf
+2024-12-20 17:06:12,143 - INFO - Checking URL: https://www.indiabudget.gov.in/economicsurvey/doc/stat/tab52.pdf
+2024-12-20 17:06:15,226 - INFO - Last modified: 2024-07-22 04:33:58
+2024-12-20 17:06:15,226 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/economicsurvey/doc/stat/tab52.pdf
+2024-12-20 17:06:15,226 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/eb/stat24.pdf
+2024-12-20 17:06:18,292 - INFO - Last modified: 2024-07-21 09:40:03
+2024-12-20 17:06:18,292 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/eb/stat24.pdf
+2024-12-20 17:06:18,292 - INFO - Checking URL: https://www.indiabudget.gov.in/economicsurvey/doc/stat/tab11.pdf
+2024-12-20 17:06:21,354 - INFO - Last modified: 2024-07-22 04:09:22
+2024-12-20 17:06:21,354 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/economicsurvey/doc/stat/tab11.pdf
+2024-12-20 17:06:21,354 - INFO - Checking URL: https://www.indiabudget.gov.in/economicsurvey/doc/Infographics%20English.pdf
+2024-12-20 17:06:24,417 - INFO - Last modified: 2024-07-23 05:14:58
+2024-12-20 17:06:24,417 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/economicsurvey/doc/Infographics%20English.pdf
+2024-12-20 17:06:24,417 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/eb/sbe6.pdf
+2024-12-20 17:06:27,985 - INFO - Last modified: 2024-07-20 17:07:30
+2024-12-20 17:06:27,986 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/eb/sbe6.pdf
+2024-12-20 17:06:27,986 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/bag/bag4.pdf
+2024-12-20 17:06:31,483 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/bag/bag4.pdf
+2024-12-20 17:06:31,484 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/bag/bag4.pdf
+2024-12-20 17:06:31,484 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/Finance_Bill.pdf
+2024-12-20 17:06:34,712 - INFO - Last modified: 2024-07-22 12:34:57
+2024-12-20 17:06:34,712 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/Finance_Bill.pdf
+2024-12-20 17:06:34,712 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/eb/sbe25.pdf
+2024-12-20 17:06:37,766 - INFO - Last modified: 2024-07-20 17:09:19
+2024-12-20 17:06:37,766 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/eb/sbe25.pdf
+2024-12-20 17:06:37,766 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/rec/int.pdf
+2024-12-20 17:06:41,644 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/doc/rec/int.pdf
+2024-12-20 17:06:41,645 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/doc/rec/int.pdf
+2024-12-20 17:06:41,645 - INFO - Checking URL: https://www.indiabudget.gov.in/economicsurvey/doc/stat/tab28.pdf
+2024-12-20 17:06:44,889 - INFO - Last modified: 2024-07-22 04:25:16
+2024-12-20 17:06:44,889 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/economicsurvey/doc/stat/tab28.pdf
+2024-12-20 17:06:44,889 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2019-20/doc/memo.pdf
+2024-12-20 17:06:48,365 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2019-20/doc/memo.pdf
+2024-12-20 17:06:48,365 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2019-20/doc/memo.pdf
+2024-12-20 17:06:48,366 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2010-11/cen/cexnt1110.pdf
+2024-12-20 17:06:52,213 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2010-11/cen/cexnt1110.pdf
+2024-12-20 17:06:52,214 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2010-11/cen/cexnt1110.pdf
+2024-12-20 17:06:52,214 - INFO - Checking URL: https://www.indiabudget.gov.in/economicsurvey/doc/stat/tab83.pdf
+2024-12-20 17:06:55,432 - INFO - Last modified: 2024-07-22 04:44:54
+2024-12-20 17:06:55,432 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/economicsurvey/doc/stat/tab83.pdf
+2024-12-20 17:06:55,432 - INFO - Checking URL: https://www.indiabudget.gov.in/economicsurvey/doc/hechapter.pdf
+2024-12-20 17:06:58,521 - INFO - Last modified: 2024-07-24 10:34:40
+2024-12-20 17:06:58,522 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/economicsurvey/doc/hechapter.pdf
+2024-12-20 17:06:58,522 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2003-04/cen/cus2603.pdf
+2024-12-20 17:07:02,637 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2003-04/cen/cus2603.pdf
+2024-12-20 17:07:02,639 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2003-04/cen/cus2603.pdf
+2024-12-20 17:07:02,639 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2010-11/cen/cus2310.pdf
+2024-12-20 17:07:06,157 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2010-11/cen/cus2310.pdf
+2024-12-20 17:07:06,158 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2010-11/cen/cus2310.pdf
+2024-12-20 17:07:06,158 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2005-06/cen/cus1905.pdf
+2024-12-20 17:07:09,655 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2005-06/cen/cus1905.pdf
+2024-12-20 17:07:09,655 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2005-06/cen/cus1905.pdf
+2024-12-20 17:07:09,655 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2022-23/doc/memo.pdf
+2024-12-20 17:07:12,715 - INFO - Last modified: 2022-01-31 16:20:40
+2024-12-20 17:07:12,715 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2022-23/doc/memo.pdf
+2024-12-20 17:07:12,715 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2010-11/cen/cexnt0910.pdf
+2024-12-20 17:07:15,924 - INFO - Last modified: 2011-06-21 11:40:32
+2024-12-20 17:07:15,924 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2010-11/cen/cexnt0910.pdf
+2024-12-20 17:07:15,924 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/Key_to_Budget_Document_2024.pdf
+2024-12-20 17:07:19,159 - INFO - Last modified: 2024-07-20 14:40:20
+2024-12-20 17:07:19,159 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/Key_to_Budget_Document_2024.pdf
+2024-12-20 17:07:19,159 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2016-2017/ub2016-17/cen/cus1216.pdf
+2024-12-20 17:07:22,669 - WARNING - Failed to retrieve document. HTTP status code: 500 for URL: https://www.indiabudget.gov.in/budget2016-2017/ub2016-17/cen/cus1216.pdf
+2024-12-20 17:07:22,669 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2016-2017/ub2016-17/cen/cus1216.pdf
+2024-12-20 17:07:22,669 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2015-2016/ub2015-16/afs/afs8.pdf
+2024-12-20 17:07:26,180 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2015-2016/ub2015-16/afs/afs8.pdf
+2024-12-20 17:07:26,181 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2015-2016/ub2015-16/afs/afs8.pdf
+2024-12-20 17:07:26,181 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2022-23/doc/cen/cus1422.pdf
+2024-12-20 17:07:29,479 - INFO - Last modified: 2022-01-31 17:33:10
+2024-12-20 17:07:29,479 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2022-23/doc/cen/cus1422.pdf
+2024-12-20 17:07:29,479 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/eb/sbe71.pdf
+2024-12-20 17:07:32,698 - INFO - Last modified: 2024-07-20 17:13:46
+2024-12-20 17:07:32,698 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/eb/sbe71.pdf
+2024-12-20 17:07:32,699 - INFO - Checking URL: https://www.indiabudget.gov.in/economicsurvey/doc/eschapter/echap12.pdf
+2024-12-20 17:07:35,906 - INFO - Last modified: 2024-07-30 04:48:37
+2024-12-20 17:07:35,906 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/economicsurvey/doc/eschapter/echap12.pdf
+2024-12-20 17:07:35,906 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/eb/sbe62.pdf
+2024-12-20 17:07:38,959 - INFO - Last modified: 2024-07-20 17:12:54
+2024-12-20 17:07:38,959 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/eb/sbe62.pdf
+2024-12-20 17:07:38,959 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/eb/stat13.pdf
+2024-12-20 17:07:42,015 - INFO - Last modified: 2024-07-21 09:28:19
+2024-12-20 17:07:42,015 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/eb/stat13.pdf
+2024-12-20 17:07:42,015 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/eb/sbe88.pdf
+2024-12-20 17:07:45,501 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/doc/eb/sbe88.pdf
+2024-12-20 17:07:45,501 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/doc/eb/sbe88.pdf
+2024-12-20 17:07:45,501 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2024-25(I)/doc/eb/sbe94.pdf
+2024-12-20 17:07:49,301 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2024-25(I)/doc/eb/sbe94.pdf
+2024-12-20 17:07:49,301 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/budget2024-25(I)/doc/eb/sbe94.pdf
+2024-12-20 17:07:49,301 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2006-07/cen/cex0606.pdf
+2024-12-20 17:07:53,157 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2006-07/cen/cex0606.pdf
+2024-12-20 17:07:53,158 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2006-07/cen/cex0606.pdf
+2024-12-20 17:07:53,158 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/ce0811.pdf
+2024-12-20 17:07:56,978 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/ce0811.pdf
+2024-12-20 17:07:56,978 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/ce0811.pdf
+2024-12-20 17:07:56,978 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/OutcomeBudgetE2024_2025.pdf
+2024-12-20 17:08:00,044 - INFO - Last modified: 2024-07-21 06:32:11
+2024-12-20 17:08:00,044 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/OutcomeBudgetE2024_2025.pdf
+2024-12-20 17:08:00,044 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2015-2016/ub2015-16/cen/st0815.pdf
+2024-12-20 17:08:03,857 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2015-2016/ub2015-16/cen/st0815.pdf
+2024-12-20 17:08:03,858 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2015-2016/ub2015-16/cen/st0815.pdf
+2024-12-20 17:08:03,858 - INFO - Checking URL: https://www.indiabudget.gov.in/economicsurvey/doc/eschapter/echap07.pdf
+2024-12-20 17:08:07,378 - INFO - Last modified: 2024-07-20 08:25:12
+2024-12-20 17:08:07,379 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/economicsurvey/doc/eschapter/echap07.pdf
+2024-12-20 17:08:07,379 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2015-2016/ub2015-16/afs/afs7.pdf
+2024-12-20 17:08:10,883 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2015-2016/ub2015-16/afs/afs7.pdf
+2024-12-20 17:08:10,883 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2015-2016/ub2015-16/afs/afs7.pdf
+2024-12-20 17:08:10,884 - INFO - Checking URL: https://www.indiabudget.gov.in/economicsurvey/doc/stat/tab119.pdf
+2024-12-20 17:08:14,411 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/economicsurvey/doc/stat/tab119.pdf
+2024-12-20 17:08:14,411 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/economicsurvey/doc/stat/tab119.pdf
+2024-12-20 17:08:14,411 - INFO - Checking URL: https://www.indiabudget.gov.in/economicsurvey/doc/eschapter/echap01.pdf
+2024-12-20 17:08:17,671 - INFO - Last modified: 2024-07-20 08:17:24
+2024-12-20 17:08:17,672 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/economicsurvey/doc/eschapter/echap01.pdf
+2024-12-20 17:08:17,672 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/cus0618.pdf
+2024-12-20 17:08:21,031 - INFO - Last modified: 2018-01-31 16:46:00
+2024-12-20 17:08:21,032 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/cus0618.pdf
+2024-12-20 17:08:21,032 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2019-20/doc/AFS/afs6.pdf
+2024-12-20 17:08:24,968 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2019-20/doc/AFS/afs6.pdf
+2024-12-20 17:08:24,968 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2019-20/doc/AFS/afs6.pdf
+2024-12-20 17:08:24,968 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/rec/annex1.pdf
+2024-12-20 17:08:28,024 - INFO - Last modified: 2024-07-22 04:16:58
+2024-12-20 17:08:28,025 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/rec/annex1.pdf
+2024-12-20 17:08:28,025 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2022-23/doc/cen/cus1122.pdf
+2024-12-20 17:08:31,513 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2022-23/doc/cen/cus1122.pdf
+2024-12-20 17:08:31,514 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2022-23/doc/cen/cus1122.pdf
+2024-12-20 17:08:31,514 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/st1611.pdf
+2024-12-20 17:08:35,385 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/st1611.pdf
+2024-12-20 17:08:35,386 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/st1611.pdf
+2024-12-20 17:08:35,386 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2017-2018/es2016-17/echapter.pdf
+2024-12-20 17:08:38,441 - INFO - Last modified: 2017-01-31 06:22:00
+2024-12-20 17:08:38,441 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2017-2018/es2016-17/echapter.pdf
+2024-12-20 17:08:38,441 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/Budget_at_Glance/bag4.pdf
+2024-12-20 17:08:41,911 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/doc/Budget_at_Glance/bag4.pdf
+2024-12-20 17:08:41,912 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/doc/Budget_at_Glance/bag4.pdf
+2024-12-20 17:08:41,912 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/rec/cr.pdf
+2024-12-20 17:08:45,411 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/doc/rec/cr.pdf
+2024-12-20 17:08:45,412 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/doc/rec/cr.pdf
+2024-12-20 17:08:45,412 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2005-06/cen/cus1105.pdf
+2024-12-20 17:08:48,868 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2005-06/cen/cus1105.pdf
+2024-12-20 17:08:48,868 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2005-06/cen/cus1105.pdf
+2024-12-20 17:08:48,868 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2019-20/rec/tr.pdf
+2024-12-20 17:08:52,356 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2019-20/rec/tr.pdf
+2024-12-20 17:08:52,356 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2019-20/rec/tr.pdf
+2024-12-20 17:08:52,357 - INFO - Checking URL: https://www.indiabudget.gov.in/economicsurvey/statAppVolumeIIpdf.php
+2024-12-20 17:08:55,818 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/economicsurvey/statAppVolumeIIpdf.php
+2024-12-20 17:08:55,818 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/economicsurvey/statAppVolumeIIpdf.php
+2024-12-20 17:08:55,818 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/eb/sbe95.pdf
+2024-12-20 17:08:59,018 - INFO - Last modified: 2024-07-20 17:16:00
+2024-12-20 17:08:59,018 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/eb/sbe95.pdf
+2024-12-20 17:08:59,018 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2006-07/fb/bill42.pdf
+2024-12-20 17:09:02,488 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2006-07/fb/bill42.pdf
+2024-12-20 17:09:02,489 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2006-07/fb/bill42.pdf
+2024-12-20 17:09:02,489 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/Budget_at_Glance/bag6.pdf
+2024-12-20 17:09:05,542 - INFO - Last modified: 2024-07-22 12:12:31
+2024-12-20 17:09:05,542 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/Budget_at_Glance/bag6.pdf
+2024-12-20 17:09:05,543 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2012-2013/ub2012-13/cen/cus2112.pdf
+2024-12-20 17:09:09,041 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2012-2013/ub2012-13/cen/cus2112.pdf
+2024-12-20 17:09:09,041 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2012-2013/ub2012-13/cen/cus2112.pdf
+2024-12-20 17:09:09,041 - INFO - Checking URL: https://www.indiabudget.gov.in/economicsurvey/doc/stat/tab117.pdf
+2024-12-20 17:09:12,315 - INFO - Last modified: 2024-07-22 04:19:30
+2024-12-20 17:09:12,316 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/economicsurvey/doc/stat/tab117.pdf
+2024-12-20 17:09:12,316 - INFO - Checking URL: https://www.indiabudget.gov.in/economicsurvey/doc/eschapter/echap06.pdf
+2024-12-20 17:09:15,526 - INFO - Last modified: 2024-07-20 13:13:44
+2024-12-20 17:09:15,526 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/economicsurvey/doc/eschapter/echap06.pdf
+2024-12-20 17:09:15,527 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2012-2013/ub2012-13/cen/cent1812.pdf
+2024-12-20 17:09:19,796 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2012-2013/ub2012-13/cen/cent1812.pdf
+2024-12-20 17:09:19,796 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2012-2013/ub2012-13/cen/cent1812.pdf
+2024-12-20 17:09:19,796 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2019-20/doc/cen/cus1919.pdf
+2024-12-20 17:09:23,283 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2019-20/doc/cen/cus1919.pdf
+2024-12-20 17:09:23,284 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2019-20/doc/cen/cus1919.pdf
+2024-12-20 17:09:23,284 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2013-2014/ub2013-14/bh/bh1.pdf
+2024-12-20 17:09:26,341 - INFO - Last modified: 2014-02-17 09:28:10
+2024-12-20 17:09:26,341 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2013-2014/ub2013-14/bh/bh1.pdf
+2024-12-20 17:09:26,341 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2023-24/doc/Budget_at_Glance/bag6.pdf
+2024-12-20 17:09:29,830 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2023-24/doc/Budget_at_Glance/bag6.pdf
+2024-12-20 17:09:29,831 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2023-24/doc/Budget_at_Glance/bag6.pdf
+2024-12-20 17:09:29,831 - INFO - Checking URL: https://www.indiabudget.gov.in/economicsurvey/doc/stat/tab82.pdf
+2024-12-20 17:09:33,045 - INFO - Last modified: 2024-07-22 04:44:36
+2024-12-20 17:09:33,045 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/economicsurvey/doc/stat/tab82.pdf
+2024-12-20 17:09:33,045 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2023-24/doc/AFS/afs2.pdf
+2024-12-20 17:09:36,998 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2023-24/doc/AFS/afs2.pdf
+2024-12-20 17:09:36,999 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2023-24/doc/AFS/afs2.pdf
+2024-12-20 17:09:36,999 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2023-24/doc/AFS/afs5.pdf
+2024-12-20 17:09:40,881 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2023-24/doc/AFS/afs5.pdf
+2024-12-20 17:09:40,882 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2023-24/doc/AFS/afs5.pdf
+2024-12-20 17:09:40,882 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2021-22/doc/cen/cus0221.pdf
+2024-12-20 17:09:44,709 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2021-22/doc/cen/cus0221.pdf
+2024-12-20 17:09:44,709 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2021-22/doc/cen/cus0221.pdf
+2024-12-20 17:09:44,710 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/rec/tr.pdf
+2024-12-20 17:09:47,812 - INFO - Last modified: 2024-07-20 15:03:30
+2024-12-20 17:09:47,813 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/rec/tr.pdf
+2024-12-20 17:09:47,813 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/eb/allsbe.pdf
+2024-12-20 17:09:50,881 - INFO - Last modified: 2012-03-15 06:10:06
+2024-12-20 17:09:50,882 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/eb/allsbe.pdf
+2024-12-20 17:09:50,882 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/cen/cus302024.pdf
+2024-12-20 17:09:53,943 - INFO - Last modified: 2024-07-22 21:40:58
+2024-12-20 17:09:53,944 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/cen/cus302024.pdf
+2024-12-20 17:09:53,944 - INFO - Checking URL: https://www.indiabudget.gov.in/economicsurvey/doc/stat/tab118.pdf
+2024-12-20 17:09:57,030 - INFO - Last modified: 2024-07-22 04:19:48
+2024-12-20 17:09:57,031 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/economicsurvey/doc/stat/tab118.pdf
+2024-12-20 17:09:57,031 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/memo.pdf
+2024-12-20 17:10:00,253 - INFO - Last modified: 2024-07-22 20:51:34
+2024-12-20 17:10:00,253 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/memo.pdf
+2024-12-20 17:10:00,253 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2022-23/doc/Finance_Bill.pdf
+2024-12-20 17:10:03,472 - INFO - Last modified: 2022-01-31 06:29:14
+2024-12-20 17:10:03,472 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2022-23/doc/Finance_Bill.pdf
+2024-12-20 17:10:03,472 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/cus2707.pdf
+2024-12-20 17:10:08,191 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/cus2707.pdf
+2024-12-20 17:10:08,192 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/cus2707.pdf
+2024-12-20 17:10:08,192 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/es2004-05/chapt2005/chap103.pdf
+2024-12-20 17:10:11,281 - INFO - Last modified: 2011-06-21 11:45:13
+2024-12-20 17:10:11,282 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/es2004-05/chapt2005/chap103.pdf
+2024-12-20 17:10:11,282 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/ce0711.pdf
+2024-12-20 17:10:15,149 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/ce0711.pdf
+2024-12-20 17:10:15,150 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/ce0711.pdf
+2024-12-20 17:10:15,150 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/ce0311.pdf
+2024-12-20 17:10:18,656 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/ce0311.pdf
+2024-12-20 17:10:18,656 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/ce0311.pdf
+2024-12-20 17:10:18,656 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/cus3207.pdf
+2024-12-20 17:10:22,132 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/cus3207.pdf
+2024-12-20 17:10:22,133 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/cus3207.pdf
+2024-12-20 17:10:22,133 - INFO - Checking URL: https://www.indiabudget.gov.in/economicsurvey/doc/stat/tab12.pdf
+2024-12-20 17:10:25,366 - INFO - Last modified: 2024-07-22 04:10:04
+2024-12-20 17:10:25,366 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/economicsurvey/doc/stat/tab12.pdf
+2024-12-20 17:10:25,367 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/cent0311.pdf
+2024-12-20 17:10:29,215 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/cent0311.pdf
+2024-12-20 17:10:29,215 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/cent0311.pdf
+2024-12-20 17:10:29,215 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/eb/stat7.pdf
+2024-12-20 17:10:32,423 - INFO - Last modified: 2024-07-21 09:19:39
+2024-12-20 17:10:32,424 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/eb/stat7.pdf
+2024-12-20 17:10:32,424 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2023-24/doc/Budget_at_Glance/bag2.pdf
+2024-12-20 17:10:36,076 - INFO - Last modified: 2023-01-31 20:18:08
+2024-12-20 17:10:36,076 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2023-24/doc/Budget_at_Glance/bag2.pdf
+2024-12-20 17:10:36,076 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/rec/ntr.pdf
+2024-12-20 17:10:39,315 - INFO - Last modified: 2024-07-19 06:57:06
+2024-12-20 17:10:39,315 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/rec/ntr.pdf
+2024-12-20 17:10:39,315 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2023-24/doc/AFS/afs1.pdf
+2024-12-20 17:10:42,765 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2023-24/doc/AFS/afs1.pdf
+2024-12-20 17:10:42,765 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2023-24/doc/AFS/afs1.pdf
+2024-12-20 17:10:42,765 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2021-22/economicsurvey/doc/echapter_vol2.pdf
+2024-12-20 17:10:46,009 - INFO - Last modified: 2021-01-29 04:31:22
+2024-12-20 17:10:46,009 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2021-22/economicsurvey/doc/echapter_vol2.pdf
+2024-12-20 17:10:46,010 - INFO - Checking URL: https://www.indiabudget.gov.in/economicsurvey/doc/stat/tab51a.pdf
+2024-12-20 17:10:49,220 - INFO - Last modified: 2024-07-22 04:33:04
+2024-12-20 17:10:49,220 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/economicsurvey/doc/stat/tab51a.pdf
+2024-12-20 17:10:49,220 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2023-24/doc/Budget_at_Glance/bag5.pdf
+2024-12-20 17:10:53,038 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2023-24/doc/Budget_at_Glance/bag5.pdf
+2024-12-20 17:10:53,039 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2023-24/doc/Budget_at_Glance/bag5.pdf
+2024-12-20 17:10:53,039 - INFO - Checking URL: https://www.indiabudget.gov.in/economicsurvey/doc/stat/tab818.pdf
+2024-12-20 17:10:56,829 - INFO - Last modified: 2024-07-22 04:51:28
+2024-12-20 17:10:56,829 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/economicsurvey/doc/stat/tab818.pdf
+2024-12-20 17:10:56,829 - INFO - Checking URL: https://www.indiabudget.gov.in/economicsurvey/doc/stat/tab55.pdf
+2024-12-20 17:10:59,891 - INFO - Last modified: 2024-07-22 04:35:36
+2024-12-20 17:10:59,891 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/economicsurvey/doc/stat/tab55.pdf
+2024-12-20 17:10:59,891 - INFO - Checking URL: https://www.indiabudget.gov.in/economicsurvey/doc/stat/tab85.pdf
+2024-12-20 17:11:02,956 - INFO - Last modified: 2024-07-22 04:45:36
+2024-12-20 17:11:02,957 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/economicsurvey/doc/stat/tab85.pdf
+2024-12-20 17:11:02,957 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2023-24/doc/Budget_at_Glance/bag7.pdf
+2024-12-20 17:11:06,008 - INFO - Last modified: 2023-01-31 20:00:54
+2024-12-20 17:11:06,008 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2023-24/doc/Budget_at_Glance/bag7.pdf
+2024-12-20 17:11:06,008 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2023-24/doc/rec/allrec.pdf
+2024-12-20 17:11:09,868 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2023-24/doc/rec/allrec.pdf
+2024-12-20 17:11:09,868 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2023-24/doc/rec/allrec.pdf
+2024-12-20 17:11:09,868 - INFO - Checking URL: https://www.indiabudget.gov.in/economicsurvey/doc/stat/tab54.pdf
+2024-12-20 17:11:12,942 - INFO - Last modified: 2024-07-22 04:35:12
+2024-12-20 17:11:12,942 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/economicsurvey/doc/stat/tab54.pdf
+2024-12-20 17:11:12,942 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2022-23/doc/cen/cus1222.pdf
+2024-12-20 17:11:16,414 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2022-23/doc/cen/cus1222.pdf
+2024-12-20 17:11:16,414 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2022-23/doc/cen/cus1222.pdf
+2024-12-20 17:11:16,415 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/hkeybud2024.pdf
+2024-12-20 17:11:19,924 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/doc/hkeybud2024.pdf
+2024-12-20 17:11:19,924 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/doc/hkeybud2024.pdf
+2024-12-20 17:11:19,924 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2012-2013/ub2012-13/mem/mem1.pdf
+2024-12-20 17:11:23,506 - INFO - Last modified: 2013-02-26 10:12:48
+2024-12-20 17:11:23,506 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2012-2013/ub2012-13/mem/mem1.pdf
+2024-12-20 17:11:23,506 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/cus2318.pdf
+2024-12-20 17:11:26,995 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/cus2318.pdf
+2024-12-20 17:11:26,996 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/cus2318.pdf
+2024-12-20 17:11:26,996 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/cus1518.pdf
+2024-12-20 17:11:30,487 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/cus1518.pdf
+2024-12-20 17:11:30,487 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/cus1518.pdf
+2024-12-20 17:11:30,487 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/rec/annex6.pdf
+2024-12-20 17:11:34,310 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/doc/rec/annex6.pdf
+2024-12-20 17:11:34,310 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/doc/rec/annex6.pdf
+2024-12-20 17:11:34,310 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/ce0318.pdf
+2024-12-20 17:11:38,120 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/ce0318.pdf
+2024-12-20 17:11:38,120 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/ce0318.pdf
+2024-12-20 17:11:38,120 - INFO - Checking URL: https://www.indiabudget.gov.in/economicsurvey/doc/stat/tab62a.pdf
+2024-12-20 17:11:41,675 - INFO - Last modified: 2024-07-22 04:36:46
+2024-12-20 17:11:41,676 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/economicsurvey/doc/stat/tab62a.pdf
+2024-12-20 17:11:41,676 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2019-20/doc/AFS/afs8.pdf
+2024-12-20 17:11:45,552 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2019-20/doc/AFS/afs8.pdf
+2024-12-20 17:11:45,552 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2019-20/doc/AFS/afs8.pdf
+2024-12-20 17:11:45,552 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/cus2018.pdf
+2024-12-20 17:11:49,363 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/cus2018.pdf
+2024-12-20 17:11:49,363 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/cus2018.pdf
+2024-12-20 17:11:49,363 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/cus1718.pdf
+2024-12-20 17:11:53,180 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/cus1718.pdf
+2024-12-20 17:11:53,181 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/cus1718.pdf
+2024-12-20 17:11:53,181 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/cus2118.pdf
+2024-12-20 17:11:57,004 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/cus2118.pdf
+2024-12-20 17:11:57,005 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/cus2118.pdf
+2024-12-20 17:11:57,005 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2016-2017/ub2016-17/fb/bill.pdf
+2024-12-20 17:12:00,482 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2016-2017/ub2016-17/fb/bill.pdf
+2024-12-20 17:12:00,482 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2016-2017/ub2016-17/fb/bill.pdf
+2024-12-20 17:12:00,483 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/ce0518.pdf
+2024-12-20 17:12:03,963 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/ce0518.pdf
+2024-12-20 17:12:03,963 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/ce0518.pdf
+2024-12-20 17:12:03,963 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2015-2016/ub2015-16/cen/ce1415.pdf
+2024-12-20 17:12:07,779 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2015-2016/ub2015-16/cen/ce1415.pdf
+2024-12-20 17:12:07,780 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2015-2016/ub2015-16/cen/ce1415.pdf
+2024-12-20 17:12:07,781 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/ce1118.pdf
+2024-12-20 17:12:11,613 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/ce1118.pdf
+2024-12-20 17:12:11,614 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/ce1118.pdf
+2024-12-20 17:12:11,614 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/rec/annex8.pdf
+2024-12-20 17:12:15,096 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/doc/rec/annex8.pdf
+2024-12-20 17:12:15,096 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/doc/rec/annex8.pdf
+2024-12-20 17:12:15,096 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/cus0918.pdf
+2024-12-20 17:12:18,940 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/cus0918.pdf
+2024-12-20 17:12:18,940 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/cus0918.pdf
+2024-12-20 17:12:18,940 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2023-24/doc/Budget_Speech.pdf
+2024-12-20 17:12:21,999 - INFO - Last modified: 2023-02-01 02:58:22
+2024-12-20 17:12:21,999 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2023-24/doc/Budget_Speech.pdf
+2024-12-20 17:12:21,999 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/cus1318.pdf
+2024-12-20 17:12:26,822 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/cus1318.pdf
+2024-12-20 17:12:26,822 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/cus1318.pdf
+2024-12-20 17:12:26,822 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2013-2014/ub2013-14/mem/mem1.pdf
+2024-12-20 17:12:30,660 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2013-2014/ub2013-14/mem/mem1.pdf
+2024-12-20 17:12:30,660 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2013-2014/ub2013-14/mem/mem1.pdf
+2024-12-20 17:12:30,660 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2023-24/doc/AFS/afs6.pdf
+2024-12-20 17:12:34,142 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2023-24/doc/AFS/afs6.pdf
+2024-12-20 17:12:34,142 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2023-24/doc/AFS/afs6.pdf
+2024-12-20 17:12:34,142 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/cus1018.pdf
+2024-12-20 17:12:38,010 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/cus1018.pdf
+2024-12-20 17:12:38,011 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/cus1018.pdf
+2024-12-20 17:12:38,011 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2020-21/doc/Finance_Bill.pdf
+2024-12-20 17:12:42,150 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2020-21/doc/Finance_Bill.pdf
+2024-12-20 17:12:42,151 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2020-21/doc/Finance_Bill.pdf
+2024-12-20 17:12:42,151 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2023-24/doc/AFS/afs8.pdf
+2024-12-20 17:12:46,417 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2023-24/doc/AFS/afs8.pdf
+2024-12-20 17:12:46,418 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2023-24/doc/AFS/afs8.pdf
+2024-12-20 17:12:46,418 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2019-20/doc/AFS/afs2.pdf
+2024-12-20 17:12:49,901 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2019-20/doc/AFS/afs2.pdf
+2024-12-20 17:12:49,901 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2019-20/doc/AFS/afs2.pdf
+2024-12-20 17:12:49,901 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2022-23/economicsurvey/doc/echapter.pdf
+2024-12-20 17:12:53,242 - INFO - Last modified: 2022-01-31 10:29:34
+2024-12-20 17:12:53,243 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2022-23/economicsurvey/doc/echapter.pdf
+2024-12-20 17:12:53,243 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2021-22/doc/Budget_Speech.pdf
+2024-12-20 17:12:56,713 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2021-22/doc/Budget_Speech.pdf
+2024-12-20 17:12:56,714 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2021-22/doc/Budget_Speech.pdf
+2024-12-20 17:12:56,714 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2021-22/doc/memo.pdf
+2024-12-20 17:13:00,185 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2021-22/doc/memo.pdf
+2024-12-20 17:13:00,185 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2021-22/doc/memo.pdf
+2024-12-20 17:13:00,185 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2005-06/cen/cus2505.pdf
+2024-12-20 17:13:03,395 - INFO - Last modified: 2011-06-22 11:13:31
+2024-12-20 17:13:03,396 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2005-06/cen/cus2505.pdf
+2024-12-20 17:13:03,396 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/cus2607.pdf
+2024-12-20 17:13:07,669 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/cus2607.pdf
+2024-12-20 17:13:07,669 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/cus2607.pdf
+2024-12-20 17:13:07,669 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/bs/bs.pdf
+2024-12-20 17:13:10,870 - INFO - Last modified: 2018-02-01 10:31:46
+2024-12-20 17:13:10,870 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/bs/bs.pdf
+2024-12-20 17:13:10,870 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2008-09/cen/cexnt1408.pdf
+2024-12-20 17:13:14,380 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2008-09/cen/cexnt1408.pdf
+2024-12-20 17:13:14,380 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2008-09/cen/cexnt1408.pdf
+2024-12-20 17:13:14,380 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2023-24/economicsurvey/doc/echapter.pdf
+2024-12-20 17:13:17,599 - INFO - Last modified: 2024-07-25 10:59:51
+2024-12-20 17:13:17,599 - INFO - URL added to valid PDFs: https://www.indiabudget.gov.in/budget2023-24/economicsurvey/doc/echapter.pdf
+2024-12-20 17:13:17,599 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2020-21/economicsurvey/doc/echapter.pdf
+2024-12-20 17:13:21,084 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2020-21/economicsurvey/doc/echapter.pdf
+2024-12-20 17:13:21,084 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2020-21/economicsurvey/doc/echapter.pdf
+2024-12-20 17:13:21,084 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2008-09/cen/cex1408.pdf
+2024-12-20 17:13:32,380 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2008-09/cen/cex1408.pdf
+2024-12-20 17:13:32,381 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2008-09/cen/cex1408.pdf
+2024-12-20 17:13:32,381 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2019-20/doc/Budget_Speech.pdf
+2024-12-20 17:13:35,600 - INFO - Last modified: 2019-07-05 06:18:00
+2024-12-20 17:13:35,600 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2019-20/doc/Budget_Speech.pdf
+2024-12-20 17:13:35,600 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/cus2711.pdf
+2024-12-20 17:13:38,819 - INFO - Last modified: 2012-03-15 06:09:04
+2024-12-20 17:13:38,820 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/cus2711.pdf
+2024-12-20 17:13:38,820 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/cus2407.pdf
+2024-12-20 17:13:42,290 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/cus2407.pdf
+2024-12-20 17:13:42,291 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/cus2407.pdf
+2024-12-20 17:13:42,291 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/cus1118.pdf
+2024-12-20 17:13:45,798 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/cus1118.pdf
+2024-12-20 17:13:45,798 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/cus1118.pdf
+2024-12-20 17:13:45,799 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2015-2016/ub2015-16/cen/st0715.pdf
+2024-12-20 17:13:49,444 - INFO - Last modified: 2015-02-28 10:47:42
+2024-12-20 17:13:49,444 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2015-2016/ub2015-16/cen/st0715.pdf
+2024-12-20 17:13:49,444 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2015-2016/ub2015-16/cen/st0615.pdf
+2024-12-20 17:13:52,958 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2015-2016/ub2015-16/cen/st0615.pdf
+2024-12-20 17:13:52,959 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2015-2016/ub2015-16/cen/st0615.pdf
+2024-12-20 17:13:52,959 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2003-04/cen/mtp0203.pdf
+2024-12-20 17:13:56,473 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2003-04/cen/mtp0203.pdf
+2024-12-20 17:13:56,473 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2003-04/cen/mtp0203.pdf
+2024-12-20 17:13:56,473 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/cex0507.pdf
+2024-12-20 17:14:00,300 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/cex0507.pdf
+2024-12-20 17:14:00,300 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/cex0507.pdf
+2024-12-20 17:14:00,300 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2010-11/cen/cex1210.pdf
+2024-12-20 17:14:04,168 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2010-11/cen/cex1210.pdf
+2024-12-20 17:14:04,168 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2010-11/cen/cex1210.pdf
+2024-12-20 17:14:04,169 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2008-09/cen/cex0708.pdf
+2024-12-20 17:14:07,982 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2008-09/cen/cex0708.pdf
+2024-12-20 17:14:07,983 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2008-09/cen/cex0708.pdf
+2024-12-20 17:14:07,983 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/cus1218.pdf
+2024-12-20 17:14:12,610 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/cus1218.pdf
+2024-12-20 17:14:12,610 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2018-2019/ub2018-19/cen/cus1218.pdf
+2024-12-20 17:14:12,611 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/cus2807.pdf
+2024-12-20 17:14:16,424 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/cus2807.pdf
+2024-12-20 17:14:16,424 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/cus2807.pdf
+2024-12-20 17:14:16,424 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2023-24/doc/rec/cr.pdf
+2024-12-20 17:14:19,987 - INFO - Last modified: 2023-01-31 08:49:58
+2024-12-20 17:14:19,987 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2023-24/doc/rec/cr.pdf
+2024-12-20 17:14:19,987 - INFO - Checking URL: https://www.indiabudget.gov.in/doc/bspeech/bs199192.pdf
+2024-12-20 17:14:23,779 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/doc/bspeech/bs199192.pdf
+2024-12-20 17:14:23,780 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/doc/bspeech/bs199192.pdf
+2024-12-20 17:14:23,780 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2012-2013/ub2012-13/cen/st1212.pdf
+2024-12-20 17:14:28,501 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2012-2013/ub2012-13/cen/st1212.pdf
+2024-12-20 17:14:28,501 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2012-2013/ub2012-13/cen/st1212.pdf
+2024-12-20 17:14:28,501 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2004-05/cen/cex3304.pdf
+2024-12-20 17:14:31,990 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2004-05/cen/cex3304.pdf
+2024-12-20 17:14:31,991 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2004-05/cen/cex3304.pdf
+2024-12-20 17:14:31,991 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/ce1811.pdf
+2024-12-20 17:14:36,322 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/ce1811.pdf
+2024-12-20 17:14:36,322 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/ce1811.pdf
+2024-12-20 17:14:36,323 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2004-05/cen/cus7004.pdf
+2024-12-20 17:14:40,630 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2004-05/cen/cus7004.pdf
+2024-12-20 17:14:40,630 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2004-05/cen/cus7004.pdf
+2024-12-20 17:14:40,631 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/ce1711.pdf
+2024-12-20 17:14:44,094 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/ce1711.pdf
+2024-12-20 17:14:44,094 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/ce1711.pdf
+2024-12-20 17:14:44,094 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2005-06/cen/cus1805.pdf
+2024-12-20 17:14:47,573 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2005-06/cen/cus1805.pdf
+2024-12-20 17:14:47,573 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2005-06/cen/cus1805.pdf
+2024-12-20 17:14:47,573 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2005-06/cen/cexnt1205.pdf
+2024-12-20 17:14:51,060 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2005-06/cen/cexnt1205.pdf
+2024-12-20 17:14:51,061 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2005-06/cen/cexnt1205.pdf
+2024-12-20 17:14:51,061 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/cus2307.pdf
+2024-12-20 17:14:54,900 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/cus2307.pdf
+2024-12-20 17:14:54,901 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/cus2307.pdf
+2024-12-20 17:14:54,901 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2005-06/cen/cexnt1305.pdf
+2024-12-20 17:14:59,289 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2005-06/cen/cexnt1305.pdf
+2024-12-20 17:14:59,289 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2005-06/cen/cexnt1305.pdf
+2024-12-20 17:14:59,289 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2012-2013/ub2012-13/cen/ce1412.pdf
+2024-12-20 17:15:03,146 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2012-2013/ub2012-13/cen/ce1412.pdf
+2024-12-20 17:15:03,146 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2012-2013/ub2012-13/cen/ce1412.pdf
+2024-12-20 17:15:03,146 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2005-06/cen/cus2205.pdf
+2024-12-20 17:15:06,638 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2005-06/cen/cus2205.pdf
+2024-12-20 17:15:06,639 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2005-06/cen/cus2205.pdf
+2024-12-20 17:15:06,639 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/ce1511.pdf
+2024-12-20 17:15:11,343 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/ce1511.pdf
+2024-12-20 17:15:11,343 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/ce1511.pdf
+2024-12-20 17:15:11,343 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2003-04/cen/cus2903.pdf
+2024-12-20 17:15:14,846 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2003-04/cen/cus2903.pdf
+2024-12-20 17:15:14,846 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2003-04/cen/cus2903.pdf
+2024-12-20 17:15:14,846 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2008-09/cen/cus2308.pdf
+2024-12-20 17:15:18,403 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2008-09/cen/cus2308.pdf
+2024-12-20 17:15:18,403 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2008-09/cen/cus2308.pdf
+2024-12-20 17:15:18,404 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2005-06/cen/cus1505.pdf
+2024-12-20 17:15:21,611 - INFO - Last modified: 2011-06-22 11:13:26
+2024-12-20 17:15:21,611 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2005-06/cen/cus1505.pdf
+2024-12-20 17:15:21,611 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/ce1411.pdf
+2024-12-20 17:15:25,408 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/ce1411.pdf
+2024-12-20 17:15:25,408 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/ce1411.pdf
+2024-12-20 17:15:25,408 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/st1511.pdf
+2024-12-20 17:15:28,881 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/st1511.pdf
+2024-12-20 17:15:28,882 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/st1511.pdf
+2024-12-20 17:15:28,882 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/cus2907.pdf
+2024-12-20 17:15:32,389 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/cus2907.pdf
+2024-12-20 17:15:32,390 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/cus2907.pdf
+2024-12-20 17:15:32,390 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/cexnt1407.pdf
+2024-12-20 17:15:35,865 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/cexnt1407.pdf
+2024-12-20 17:15:35,866 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/cexnt1407.pdf
+2024-12-20 17:15:35,866 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2004-05/cen/cus6904.pdf
+2024-12-20 17:15:39,351 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2004-05/cen/cus6904.pdf
+2024-12-20 17:15:39,351 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2004-05/cen/cus6904.pdf
+2024-12-20 17:15:39,351 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/cexnt0807.pdf
+2024-12-20 17:15:43,171 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/cexnt0807.pdf
+2024-12-20 17:15:43,171 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/cexnt0807.pdf
+2024-12-20 17:15:43,171 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2004-05/cen/cex2604.pdf
+2024-12-20 17:15:46,643 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2004-05/cen/cex2604.pdf
+2024-12-20 17:15:46,643 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2004-05/cen/cex2604.pdf
+2024-12-20 17:15:46,643 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2015-2016/ub2015-16/cen/st0515.pdf
+2024-12-20 17:15:50,958 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2015-2016/ub2015-16/cen/st0515.pdf
+2024-12-20 17:15:50,958 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2015-2016/ub2015-16/cen/st0515.pdf
+2024-12-20 17:15:50,958 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/st0107.pdf
+2024-12-20 17:15:54,873 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/st0107.pdf
+2024-12-20 17:15:54,873 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2007-08/cen/st0107.pdf
+2024-12-20 17:15:54,873 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2004-05/cen/cex3504.pdf
+2024-12-20 17:15:58,937 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2004-05/cen/cex3504.pdf
+2024-12-20 17:15:58,938 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2004-05/cen/cex3504.pdf
+2024-12-20 17:15:58,938 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2004-05/cen/cexnt1104.pdf
+2024-12-20 17:16:02,847 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2004-05/cen/cexnt1104.pdf
+2024-12-20 17:16:02,847 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2004-05/cen/cexnt1104.pdf
+2024-12-20 17:16:02,847 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2004-05/cen/cex2404.pdf
+2024-12-20 17:16:06,781 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2004-05/cen/cex2404.pdf
+2024-12-20 17:16:06,782 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2004-05/cen/cex2404.pdf
+2024-12-20 17:16:06,782 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2004-05/cen/cexnt1204.pdf
+2024-12-20 17:16:10,613 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2004-05/cen/cexnt1204.pdf
+2024-12-20 17:16:10,613 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2004-05/cen/cexnt1204.pdf
+2024-12-20 17:16:10,613 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2004-05/cen/cexnt1304.pdf
+2024-12-20 17:16:14,431 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2004-05/cen/cexnt1304.pdf
+2024-12-20 17:16:14,432 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2004-05/cen/cexnt1304.pdf
+2024-12-20 17:16:14,432 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2004-05/cen/cex2904.pdf
+2024-12-20 17:16:17,498 - INFO - Last modified: 2011-06-22 11:17:27
+2024-12-20 17:16:17,499 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2004-05/cen/cex2904.pdf
+2024-12-20 17:16:17,499 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/ce0611.pdf
+2024-12-20 17:16:21,343 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/ce0611.pdf
+2024-12-20 17:16:21,343 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2011-2012/ub2011-12/cen/ce0611.pdf
+2024-12-20 17:16:21,343 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2003-04/cen/cus3403.pdf
+2024-12-20 17:16:25,136 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2003-04/cen/cus3403.pdf
+2024-12-20 17:16:25,137 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2003-04/cen/cus3403.pdf
+2024-12-20 17:16:25,137 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2004-05/cen/cex3604.pdf
+2024-12-20 17:16:28,992 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2004-05/cen/cex3604.pdf
+2024-12-20 17:16:28,992 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2004-05/cen/cex3604.pdf
+2024-12-20 17:16:28,992 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2008-09/cen/cex0608.pdf
+2024-12-20 17:16:32,583 - INFO - Last modified: 2011-06-22 11:20:06
+2024-12-20 17:16:32,583 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2008-09/cen/cex0608.pdf
+2024-12-20 17:16:32,583 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2005-06/cen/cexnt1405.pdf
+2024-12-20 17:16:36,448 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2005-06/cen/cexnt1405.pdf
+2024-12-20 17:16:36,448 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2005-06/cen/cexnt1405.pdf
+2024-12-20 17:16:36,448 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2005-06/cen/cus2305.pdf
+2024-12-20 17:16:40,261 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2005-06/cen/cus2305.pdf
+2024-12-20 17:16:40,261 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2005-06/cen/cus2305.pdf
+2024-12-20 17:16:40,261 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/ub2010-11/cen/cexnt0610.pdf
+2024-12-20 17:16:43,724 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/ub2010-11/cen/cexnt0610.pdf
+2024-12-20 17:16:43,725 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/ub2010-11/cen/cexnt0610.pdf
+2024-12-20 17:16:43,725 - INFO - Checking URL: https://www.indiabudget.gov.in
+2024-12-20 17:16:46,957 - WARNING - No Last-Modified header for URL: https://www.indiabudget.gov.in
+2024-12-20 17:16:46,957 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in
+2024-12-20 17:16:46,957 - INFO - Checking URL: https://www.indiabudget.gov.in/bspeech.php
+2024-12-20 17:16:50,176 - WARNING - No Last-Modified header for URL: https://www.indiabudget.gov.in/bspeech.php
+2024-12-20 17:16:50,176 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/bspeech.php
+2024-12-20 17:16:50,176 - INFO - Checking URL: https://www.indiabudget.gov.in/economicsurvey
+2024-12-20 17:16:53,244 - WARNING - Failed to retrieve document. HTTP status code: 301 for URL: https://www.indiabudget.gov.in/economicsurvey
+2024-12-20 17:16:53,244 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/economicsurvey
+2024-12-20 17:16:53,244 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2019-20(I)/vol1.asp
+2024-12-20 17:16:56,718 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2019-20(I)/vol1.asp
+2024-12-20 17:16:56,718 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2019-20(I)/vol1.asp
+2024-12-20 17:16:56,718 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2016-2017/indexst.asp
+2024-12-20 17:17:01,014 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2016-2017/indexst.asp
+2024-12-20 17:17:01,014 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2016-2017/indexst.asp
+2024-12-20 17:17:01,014 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2013-2014/glance.asp
+2024-12-20 17:17:04,495 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2013-2014/glance.asp
+2024-12-20 17:17:04,495 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2013-2014/glance.asp
+2024-12-20 17:17:04,495 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2017-2018/vol1.asp
+2024-12-20 17:17:07,815 - WARNING - No Last-Modified header for URL: https://www.indiabudget.gov.in/budget2017-2018/vol1.asp
+2024-12-20 17:17:07,816 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2017-2018/vol1.asp
+2024-12-20 17:17:07,816 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/bspeech.asp
+2024-12-20 17:17:11,055 - WARNING - No Last-Modified header for URL: https://www.indiabudget.gov.in/budget_archive/bspeech.asp
+2024-12-20 17:17:11,056 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/bspeech.asp
+2024-12-20 17:17:11,056 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2014-2015/budget.asp
+2024-12-20 17:17:14,302 - WARNING - No Last-Modified header for URL: https://www.indiabudget.gov.in/budget2014-2015/budget.asp
+2024-12-20 17:17:14,302 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2014-2015/budget.asp
+2024-12-20 17:17:14,302 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2015-2016/survey.asp
+2024-12-20 17:17:17,543 - WARNING - No Last-Modified header for URL: https://www.indiabudget.gov.in/budget2015-2016/survey.asp
+2024-12-20 17:17:17,543 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2015-2016/survey.asp
+2024-12-20 17:17:17,544 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/vol2.asp
+2024-12-20 17:17:21,403 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/vol2.asp
+2024-12-20 17:17:21,404 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/vol2.asp
+2024-12-20 17:17:21,404 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2018-2019/bill.asp
+2024-12-20 17:17:24,986 - WARNING - No Last-Modified header for URL: https://www.indiabudget.gov.in/budget2018-2019/bill.asp
+2024-12-20 17:17:24,987 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2018-2019/bill.asp
+2024-12-20 17:17:24,987 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2015-2016/glance.asp
+2024-12-20 17:17:28,045 - WARNING - No Last-Modified header for URL: https://www.indiabudget.gov.in/budget2015-2016/glance.asp
+2024-12-20 17:17:28,045 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2015-2016/glance.asp
+2024-12-20 17:17:28,045 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2017-2018/bspeecha.asp
+2024-12-20 17:17:31,533 - WARNING - Failed to retrieve document. HTTP status code: 500 for URL: https://www.indiabudget.gov.in/budget2017-2018/bspeecha.asp
+2024-12-20 17:17:31,534 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2017-2018/bspeecha.asp
+2024-12-20 17:17:31,534 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2018-2019/custar.asp
+2024-12-20 17:17:35,362 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2018-2019/custar.asp
+2024-12-20 17:17:35,362 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2018-2019/custar.asp
+2024-12-20 17:17:35,362 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/afs.asp
+2024-12-20 17:17:39,158 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/afs.asp
+2024-12-20 17:17:39,159 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/afs.asp
+2024-12-20 17:17:39,159 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2018-2019/vol1.asp
+2024-12-20 17:17:42,633 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2018-2019/vol1.asp
+2024-12-20 17:17:42,633 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2018-2019/vol1.asp
+2024-12-20 17:17:42,633 - INFO - Checking URL: https://www.indiabudget.gov.in/budget_archive/dg.asp
+2024-12-20 17:17:46,918 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget_archive/dg.asp
+2024-12-20 17:17:46,918 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget_archive/dg.asp
+2024-12-20 17:17:46,919 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2014-2015/cextar.asp
+2024-12-20 17:17:50,376 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2014-2015/cextar.asp
+2024-12-20 17:17:50,377 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2014-2015/cextar.asp
+2024-12-20 17:17:50,377 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2012-2013/bspeech.asp
+2024-12-20 17:17:53,861 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2012-2013/bspeech.asp
+2024-12-20 17:17:53,862 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2012-2013/bspeech.asp
+2024-12-20 17:17:53,862 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2017-2018/e_survey2.asp
+2024-12-20 17:17:57,354 - WARNING - Failed to retrieve document. HTTP status code: 500 for URL: https://www.indiabudget.gov.in/budget2017-2018/e_survey2.asp
+2024-12-20 17:17:57,355 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2017-2018/e_survey2.asp
+2024-12-20 17:17:57,355 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2019-20(I)/vol2.asp
+2024-12-20 17:18:00,828 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2019-20(I)/vol2.asp
+2024-12-20 17:18:00,828 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2019-20(I)/vol2.asp
+2024-12-20 17:18:00,828 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2016-2017/vol2.asp
+2024-12-20 17:18:04,708 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2016-2017/vol2.asp
+2024-12-20 17:18:04,709 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2016-2017/vol2.asp
+2024-12-20 17:18:04,709 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2018-2019/bspeech.asp
+2024-12-20 17:18:08,228 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2018-2019/bspeech.asp
+2024-12-20 17:18:08,229 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2018-2019/bspeech.asp
+2024-12-20 17:18:08,230 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2016-2017/vol1.asp
+2024-12-20 17:18:11,279 - WARNING - No Last-Modified header for URL: https://www.indiabudget.gov.in/budget2016-2017/vol1.asp
+2024-12-20 17:18:11,280 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2016-2017/vol1.asp
+2024-12-20 17:18:11,280 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2015-2016/index.asp
+2024-12-20 17:18:15,116 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2015-2016/index.asp
+2024-12-20 17:18:15,116 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2015-2016/index.asp
+2024-12-20 17:18:15,116 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2018-2019/rec.asp
+2024-12-20 17:18:18,177 - WARNING - No Last-Modified header for URL: https://www.indiabudget.gov.in/budget2018-2019/rec.asp
+2024-12-20 17:18:18,178 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2018-2019/rec.asp
+2024-12-20 17:18:18,178 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2016-2017/glance.asp
+2024-12-20 17:18:22,006 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2016-2017/glance.asp
+2024-12-20 17:18:22,007 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2016-2017/glance.asp
+2024-12-20 17:18:22,007 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2022-23/economicsurvey/index.php
+2024-12-20 17:18:25,067 - WARNING - No Last-Modified header for URL: https://www.indiabudget.gov.in/budget2022-23/economicsurvey/index.php
+2024-12-20 17:18:25,067 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2022-23/economicsurvey/index.php
+2024-12-20 17:18:25,067 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2021-22/economicsurvey/index.php
+2024-12-20 17:18:28,120 - WARNING - No Last-Modified header for URL: https://www.indiabudget.gov.in/budget2021-22/economicsurvey/index.php
+2024-12-20 17:18:28,121 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2021-22/economicsurvey/index.php
+2024-12-20 17:18:28,121 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2022-23
+2024-12-20 17:18:31,411 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2022-23
+2024-12-20 17:18:31,412 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2022-23
+2024-12-20 17:18:31,412 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2021-22
+2024-12-20 17:18:34,697 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2021-22
+2024-12-20 17:18:34,697 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2021-22
+2024-12-20 17:18:34,698 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2019-20/economicsurvey
+2024-12-20 17:18:38,061 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2019-20/economicsurvey
+2024-12-20 17:18:38,062 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2019-20/economicsurvey
+2024-12-20 17:18:38,062 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2020-21
+2024-12-20 17:18:41,344 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2020-21
+2024-12-20 17:18:41,345 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2020-21
+2024-12-20 17:18:41,345 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2017-2018/budget.asp
+2024-12-20 17:18:44,408 - WARNING - No Last-Modified header for URL: https://www.indiabudget.gov.in/budget2017-2018/budget.asp
+2024-12-20 17:18:44,409 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2017-2018/budget.asp
+2024-12-20 17:18:44,409 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2018-2019/budget.asp
+2024-12-20 17:18:48,261 - WARNING - Failed to retrieve document. HTTP status code: 404 for URL: https://www.indiabudget.gov.in/budget2018-2019/budget.asp
+2024-12-20 17:18:48,262 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2018-2019/budget.asp
+2024-12-20 17:18:48,262 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2015-2016/budget.asp
+2024-12-20 17:18:51,503 - WARNING - No Last-Modified header for URL: https://www.indiabudget.gov.in/budget2015-2016/budget.asp
+2024-12-20 17:18:51,504 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2015-2016/budget.asp
+2024-12-20 17:18:51,504 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2016-2017/vol2_survey.asp
+2024-12-20 17:18:54,724 - WARNING - No Last-Modified header for URL: https://www.indiabudget.gov.in/budget2016-2017/vol2_survey.asp
+2024-12-20 17:18:54,724 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2016-2017/vol2_survey.asp
+2024-12-20 17:18:54,724 - INFO - Checking URL: https://www.indiabudget.gov.in/budget2016-2017/budget.asp
+2024-12-20 17:18:59,405 - WARNING - Failed to retrieve document. HTTP status code: 500 for URL: https://www.indiabudget.gov.in/budget2016-2017/budget.asp
+2024-12-20 17:18:59,406 - INFO - URL added to invalid PDFs: https://www.indiabudget.gov.in/budget2016-2017/budget.asp
+2024-12-20 17:18:59,407 - INFO - Saved valid PDFs to 'valid_pdfs.json'
+2024-12-20 17:18:59,408 - INFO - Saved invalid PDFs to 'invalid_pdfs.json'
+2024-12-20 17:18:59,408 - INFO - Script completed successfully

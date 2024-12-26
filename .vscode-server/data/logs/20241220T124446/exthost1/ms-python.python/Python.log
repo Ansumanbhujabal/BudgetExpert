@@ -1,0 +1,23 @@
+2024-12-20 12:44:52.693 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-12-20 12:44:52.693 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-12-20 12:44:52.693 [info] Experiment 'pythonTestAdapter' is active
+2024-12-20 12:44:52.693 [info] Native locator: Refresh started
+2024-12-20 12:44:52.693 [info] Poetry environment manager found at: /commands/poetry
+2024-12-20 12:44:52.693 [info] Conda environment manager found at: /home/zeus/miniconda3/bin/conda
+2024-12-20 12:44:52.693 [info] Native locator: Refresh finished in 576 ms
+2024-12-20 12:44:53.170 [info] Python interpreter path: /home/zeus/miniconda3/envs/cloudspace/bin/python
+2024-12-20 12:44:53.863 [info] > pyenv which python
+2024-12-20 12:44:53.863 [info] cwd: .
+2024-12-20 12:44:54.192 [info] > /home/zeus/miniconda3/bin/conda info --json
+2024-12-20 12:44:55.226 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2024-12-20 12:45:05.276 [info] Starting Pylance language server.
+2024-12-20 12:53:33.547 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/Transformation.py
+2024-12-20 12:54:52.424 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/Transformation.py
+2024-12-20 12:55:22.767 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/Transformation.py
+2024-12-20 13:15:55.036 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/Transformation.py
+2024-12-20 13:21:43.282 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/Transformation.py
+2024-12-20 13:22:42.636 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/Transformation.py
+2024-12-20 13:27:50.587 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/Transformation.py
+2024-12-20 13:28:05.726 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/Transformation.py
+2024-12-20 13:31:26.893 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/Transformation.py
+2024-12-20 13:33:47.147 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/Transformation.py

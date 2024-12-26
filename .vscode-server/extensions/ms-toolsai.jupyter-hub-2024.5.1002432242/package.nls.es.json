@@ -1,0 +1,1 @@
+{"capabilities.untrustedWorkspace.description":"La ejecución de celdas en la Ventana Interactiva y en los blocs de notas no es compatible con las áreas de trabajo no confiables.","jupyterHub.configuration.jupyterHub.log.description":"El nivel de registro de la extensión."}

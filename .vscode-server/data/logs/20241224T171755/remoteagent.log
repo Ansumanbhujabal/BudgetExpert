@@ -1,0 +1,21 @@
+2024-12-24 17:17:55.190 [info] 
+
+
+
+
+2024-12-24 17:17:55.197 [info] Extension host agent started.
+2024-12-24 17:17:56.067 [info] [<unknown>][c94585be][ManagementConnection] New connection established.
+2024-12-24 17:17:56.110 [info] [<unknown>][3cd49275][ExtensionHostConnection] New connection established.
+2024-12-24 17:17:56.192 [info] [<unknown>][3cd49275][ExtensionHostConnection] <1810> Launched Extension Host Process.
+2024-12-24 17:18:01.031 [info] Getting Manifest... ms-python.python
+2024-12-24 17:18:01.146 [info] Installing extension: ms-python.python {"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"context":{"clientTargetPlatform":"linux-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/teamspace/studios/this_studio/.vscode-server/extensions/extensions.json","external":"file:///teamspace/studios/this_studio/.vscode-server/extensions/extensions.json","path":"/teamspace/studios/this_studio/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-12-24 17:18:02.237 [info] Extension signature verification result for ms-python.python: Success. Executed: true. Duration: 803ms.
+2024-12-24 17:18:04.363 [info] Extracted extension to file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.22.1-linux-x64: ms-python.python
+2024-12-24 17:18:04.511 [info] Renamed to /teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.22.1-linux-x64
+2024-12-24 17:18:04.540 [info] Extension installed successfully: ms-python.python file:///teamspace/studios/this_studio/.vscode-server/extensions/extensions.json
+2024-12-24 17:18:04.542 [info] Marked extension as uninstalled ms-python.python-2024.22.0-linux-x64
+2024-12-24 17:22:55.198 [info] New EH opened, aborting shutdown
+2024-12-24 20:43:36.078 [info] [<unknown>][c94585be][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-24 20:43:36.143 [info] [<unknown>][3cd49275][ExtensionHostConnection] <1810> Extension Host Process exited with code: 0, signal: null.
+2024-12-24 20:43:36.144 [info] Last EH closed, waiting before shutting down
+2024-12-24 20:48:36.145 [info] Last EH closed, shutting down
