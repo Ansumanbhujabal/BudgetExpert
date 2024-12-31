@@ -1,6 +1,6 @@
 # Indian Budget Expert
 
-This project aims to create an interactive RAG(Retrival Augmented Generation) System to help users understand the Indian Budget by leveraging various technologies such as LLMA, Pinecone,LangChain ,FastAPI, Streamlit. The tool allows users to query budget documents and receive relevant answers based on their queries.
+This project aims to create an interactive RAG(Retrieval Augmented Generation) System to help users understand the Indian Budget by leveraging various technologies such as LLMA, Pinecone,LangChain ,FastAPI, Streamlit. The tool allows users to query budget documents and receive relevant answers based on their queries.
 ##  Demo
 ![Screenshot from 2024-12-26 11-05-05](https://github.com/user-attachments/assets/ad962d9f-35c3-4b84-917e-09837222bb6c)
 
